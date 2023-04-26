@@ -144,6 +144,29 @@ Feb 2023 --- June 2023, USTC (still in progress)
 
 The intrinsic singularity or degeneration of the $p$-Laplacian equation, as a nonlinear elliptic equation, brings great trouble to usual LDG methods based on the weak formulation. As an alternative, the LDG method built upon the minimization formulation, which is equivalent to the primal formulation, proves to be a practical solution due to its provable convergence and numerical stability. In order to solve the resulting discrete minimization problem, we employed a preconditioner, which can be explained as either a regularized Newton-Raphson method or an first-order explicit gradient flow method, to make the convergence behavior both $hk$-independent. Besides, we provided a priori error estimates through the minimization formulation, which is, however, not optimal. 
 
+<center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/bachelor thesis/error_u.png" 
+        width = "40%">
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/bachelor thesis/error_q.png" 
+        width = "40%">
+    <br>
+    <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        convergence using up to 9-th order polynomials on 2D unstructured triangular mesh, Poisson equation (errors for the potential and the electric field respectively)
+    </div>
+    <p> </p>
+</center>
+
 
 ---
 

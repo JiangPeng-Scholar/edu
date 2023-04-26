@@ -14,17 +14,15 @@ Short Bio
 
 I am **Yue WU (吴越)**, a fourth-year undergraduate student at the [School of the Gifted Young](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/), majoring in Information & Computational Science (2019 fall --- 2022 summer GPA: 3.98/4.3, rank: 1st in the major). I grew up in Wuxi, Jiangsu in eastern China. 
 
-My primary research interest is analysis, development and implementation of high-order numerical methods for PDEs, especially the discontinuous Galerkin methods and finite element methods. See my programming experience [here](/research_red/). 
+My primary research interest is the analysis, development and implementation of high-order numerical methods for PDEs, especially the discontinuous Galerkin methods and the finite element methods. See my programming experience [here](/research_red/). 
 
-I joined the research group lead by [Prof. Mengping ZHANG](https://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=860) and [Prof. Yan JIANG](http://staff.ustc.edu.cn/~jiangy/index.html) in 2021 and conducted my *Undergraduate Research Program*. In the summer of 2022, I worked on a small project under the supervision of [Prof. Xiangxiong ZHANG](https://www.math.purdue.edu/~zhan1966/index.html). Currently I am conducting my graduation project on DG methods for the p-Laplacian equation under the supervision of [Prof. Yan XU](https://faculty.ustc.edu.cn/yxu). 
-
-During the 2022 spring semester, I served as a teaching assitant in *Computational Methods B*. 
 
 Education
 ===
 
 * Sept. 2019 --- June 2023: B.Sc. in Information & Computational Science, School of the Gifted Young, University of Science and Technology of China (expected) 
 * Sept. 2017 --- June 2020: High School, Wuxi No.1 High School 
+
 
 Honors and Awards
 ===
@@ -47,16 +45,6 @@ Activities
 * Mar. 2022 --- June 2022: participant and talker, analysis and PDE seminar for the S.-T. Yau College Student Mathematics Contest, supervisor: [Prof. Hao YIN](http://staff.ustc.edu.cn/~haoyin/) 
 * Mar. 2022 --- June 2023: monitor, class 2019-3 for math-majored students at the School of the Gifted Young 
 * June 2022: rewarded problem solver, Vol. 64, Warming (an in-school math magazine held by USTC Math Department) 
-
-
-Standardized Tests
-===
-
-* TOEFL iBT: 106 (R: 28, L: 27, S: 25, W: 26) (Nov. 21, 2021) 
-* GRE General: 327 (V: 157, Q: 170, W: 3.5) (Sept. 3, 2022) 
-* GRE Subject Mathematics: 970 (97% percentile) (Oct. 23, 2021) 
-* CET-6: 612 (Dec. 2020) 
-* CET-4: 643 (Sept. 2020) 
 
 ---
 
