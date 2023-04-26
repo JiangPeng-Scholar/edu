@@ -22,21 +22,21 @@ redirect_from:
 
 # Projects
 
-## 1. Numerical simulation of plasma equilibrium evolution in nuclear fusion
+## 1. Numerical Simulation of Plasma Equilibrium Evolution in Nuclear Fusion 
 
-*Undergraduate Research Program at USTC*
+*Undergraduate Research Program at USTC* 
 
-Supervisor: [Prof. Mengping ZHANG](https://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=860)
+Supervisor: [Prof. Mengping ZHANG](https://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=860) 
 
-July 2021 --- May 2022, USTC
+July 2021 --- May 2022, USTC 
 
-Defense: Dec. 30, 2022
+Defense: Dec. 30, 2022 
 
-The controlled nuclear fusion is one of the most prospective solution to the energy crisis and environmental problems. The tokamak has been widely investigated as the most feasible magnetically confined fusion device. Tearing mode instabilities have great influence on the fusion reaction thus worth stuying.
+The controlled nuclear fusion is one of the most prospective solution to the energy crisis and environmental problems. The tokamak has been widely investigated as the most feasible magnetically confined fusion device. Tearing mode instabilities have great influence on the fusion reaction thus worth stuying. 
 
-In this research, in order to simulate the evolution process of tokamak plasma instability numerically, we reviewed different formulations of the MHD equations, selected a suitable type of nonconservative resistive MHD, and developed a parallel solver using hybrid finite difference-Fourier pseudo spectral method in cylindrical coordinates. Using our solver, we simulated the $(m,n)=(2,1)$ resistive tearing mode instability, and checked the results against those obtained from the CLT and M3D-C1 code with researchers from Institute of Plasma Physics, Chinese Academy of Science. Our solver exhibits satisfactory performance in conserving numerical divergence of the magnetic field, fitting the theoretical relation between logrithmic growth rate of kinetic energy and resistivity, revealing the tearing mode structure independent of initial peturbation at the linear stage, and reaching the final saturation stage.
+In this research, in order to simulate the evolution process of tokamak plasma instability numerically, we reviewed different formulations of the MHD equations, selected a suitable type of nonconservative resistive MHD, and developed a parallel solver using hybrid finite difference-Fourier pseudo spectral method in cylindrical coordinates. Using our solver, we simulated the $(m,n)=(2,1)$ resistive tearing mode instability, and checked the results against those obtained from the CLT and M3D-C1 code with researchers from Institute of Plasma Physics, Chinese Academy of Science. Our solver exhibits satisfactory performance in conserving numerical divergence of the magnetic field, fitting the theoretical relation between logrithmic growth rate of kinetic energy and resistivity, revealing the tearing mode structure independent of initial peturbation at the linear stage, and reaching the final saturation stage. 
 
-Below is a plot of $\widetilde{E}_{\varphi}$ (the perturbation on the toroidal component of the electric field) at time $T=7000$, which reveals the resistive tearing mode structure and should be independent of the initial perturbation, and a log-plot of kinetic energy evolution under different resistivity. Our code reveals the linear growing stage, mode structure and the logrithmic growth rate very well.
+Below is a plot of $\widetilde{E}_{\varphi}$ (the perturbation on the toroidal component of the electric field) at time $T=7000$, which reveals the resistive tearing mode structure and should be independent of the initial perturbation, and a log-plot of kinetic energy evolution under different resistivity. Our code reveals the linear growing stage, mode structure and the logrithmic growth rate very well. 
 
 <center>
     <img style = "
@@ -67,15 +67,15 @@ Research report (in Chinese) preview: [here](../files/undergraduate-research-pro
 
 
 
-## 2. Positivity-preserving conservative low rank methods for Vlasov dynamics
+## 2. Positivity-Preserving Conservative Low-Rank Methods for Vlasov Dynamics 
 
-Supervisor: [Prof. Xiangxiong ZHANG](https://www.math.purdue.edu/~zhan1966/)
+Supervisor: [Prof. Xiangxiong ZHANG](https://www.math.purdue.edu/~zhan1966/) 
 
-June 2022 --- August 2022, Purdue University (online)
+June 2022 --- August 2022, Purdue University (online) (still in progress) 
 
-The high-dimensionality of Vlasov dynamics makes it expenive to solve by traditional numerical methods. Utilizing the low-rank structure of the solution, people have developed cost-efficient methods using low-rank matrix/tensor approximation. However, very often a low-rank approximation of a given non-negative matrix (which corresponds to the solution) can have negative elements which results in non-physical solutions. In this research, our goal is to develop a cost-efficient positivity-preserving conservative low-rank method to solve this problem. We designed two algorithms, one is the tangent-space accelerated alternating projection algorithm, and the other is the nuclear norm optimization, both with macroscopic quantities conservation.
+The high-dimensionality of Vlasov dynamics makes it expenive to solve by traditional numerical methods. Utilizing the low-rank structure of the solution, people have developed cost-efficient methods using low-rank matrix/tensor approximation. However, very often a low-rank approximation of a given non-negative matrix (which corresponds to the solution) can have negative elements which results in non-physical solutions. In this research, our goal is to develop a cost-efficient positivity-preserving conservative low-rank method to solve this problem. We designed two algorithms, one is the tangent-space accelerated alternating projection algorithm, and the other is the nuclear norm optimization, both with macroscopic quantities conservation. 
 
-We virtually discussed this research with [Prof. Jing-Mei QIU](https://jingmeiqiu.github.io/). Thanks for her discussion and data.
+We virtually discussed this research with [Prof. Jing-Mei QIU](https://jingmeiqiu.github.io/). Thanks for her discussion and data. 
 
 <center>
     <img style = "
@@ -131,11 +131,24 @@ We virtually discussed this research with [Prof. Jing-Mei QIU](https://jingmeiqi
     <p> </p>
 </center>
 
+(still in progress) 
+
+
+## 3. Discontinuous Galerkin Methods for the $p$-Laplacian Equation 
+
+*Bachelor's Thesis Project at USTC* 
+
+Supervisor: [Prof. Yan XU](https://faculty.ustc.edu.cn/yxu) 
+
+Feb 2023 --- June 2023, USTC (still in progress) 
+
+The intrinsic singularity or degeneration of the $p$-Laplacian equation, as a nonlinear elliptic equation, brings great trouble to usual LDG methods based on the weak formulation. As an alternative, the LDG method built upon the minimization formulation, which is equivalent to the primal formulation, proves to be a practical solution due to its provable convergence and numerical stability. In order to solve the resulting discrete minimization problem, we employed a preconditioner, which can be explained as either a regularized Newton-Raphson method or an first-order explicit gradient flow method, to make the convergence behavior both $hk$-independent. Besides, we provided a priori error estimates through the minimization formulation, which is, however, not optimal. 
+
 
 ---
 
 
-Numerical PDE Programming (choronological order)
+Numerical PDE Programming (choronological order) 
 ===
 
 | PDE | method | domain | mesh | language |
@@ -152,4 +165,6 @@ Numerical PDE Programming (choronological order)
 | Poisson | 1,2-degree FEM | 2D polygon | triangular | Matlab |
 | Poisson | LDG | 1D interval | arbitary Cartesian | Matlab |
 | Poisson | HDG | 1D interval | arbitary Cartesian | Matlab |
-| Poisson | arbitary-degree MD-LDG | 2D polygon | triangular | Matlab |
+| Poisson | arbitary-degree MD-LDG (good results up to $k=9$) | 2D polygon | triangular | Matlab |
+| $p$-Laplace | arbitary-degree LDG | 1D interval | arbitary Cartesian | Matlab |
+| $p$-Laplace | arbitary-degree LDG | 2D polygon | triangular | Matlab |
