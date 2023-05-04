@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 
-**Legal Name**: 吴越, Yue WU (pronounce like [you-eh woo])
+**Name**: WU, Yue (吴越) 
 
-**Pronouns**: he/him/his
+**Pronouns**: he / him / his
 
-**E-mail**: [pilotjohnwu@mail.ustc.edu.cn](mailto:pilotjohnwu@mail.ustc.edu.cn) (preferred), [pilotjohnwu@gmail.com](mailto:pilotjohnwu@gmail.com)
+**E-mail**: [yue_wu3@brown.edu](mailto:yue_wu3@brown.edu), [pilotjohnwu@mail.ustc.edu.cn](mailto:pilotjohnwu@mail.ustc.edu.cn) 
 
 **Personal Website**: [http://home.ustc.edu.cn/~pilotjohnwu](http://home.ustc.edu.cn/~pilotjohnwu)
 
@@ -19,5 +19,5 @@ author_profile: true
 Rm. 508, Bldg. 2, 
 Mid Camp., Univ. of Sci. & Tech. of China, 
 373 Huangshan Rd., Shushan Dist., 
-Hefei, Anhui, China, 230022
+Hefei, Anhui, China, 230022 
 ```
