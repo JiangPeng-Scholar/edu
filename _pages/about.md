@@ -12,7 +12,7 @@ redirect_from:
 Short Bio
 ===
 
-I am **Yue WU**, a 4th-year undergraduate student at the [School of the Gifted Young](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/). 
+I am **Yue WU**, a 4th-year undergraduate student at the [School of the Gifted Young](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/). I am interested in high-order numerical methods for PDEs. 
 
 
 Education
