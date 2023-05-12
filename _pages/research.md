@@ -13,9 +13,9 @@ redirect_from:
 1. High-order numerical methods for PDEs: 
    - Discontinuous Galerkin finite element methods 
    - Spectral methods 
-   - Finite difference/volume WENO methods 
+   - Finite difference / volume methods 
 2. Scientific computing: 
-   - Parallel implementation of numerical solvers 
+   - Parallel numerical solvers 
 
 ---
 

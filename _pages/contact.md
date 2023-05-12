@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-**Name**: WU, Yue (吴越) 
+**Name**: WU, Yue 
 
 **Pronouns**: he / him / his
 
