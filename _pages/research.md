@@ -134,7 +134,7 @@ We virtually discussed this research with [Prof. Jing-Mei QIU](https://jingmeiqi
 (still in progress) 
 
 
-## 3. Discontinuous Galerkin Methods for the $p$-Laplacian Equation 
+## 3. Discontinuous Galerkin Methods for the $p$-Laplace Equation 
 
 *Bachelor's Thesis Project at USTC* 
 
@@ -142,7 +142,7 @@ Supervisor: [Prof. Yan XU](https://faculty.ustc.edu.cn/yxu)
 
 Feb 2023 --- June 2023, USTC (still in progress) 
 
-The intrinsic singularity or degeneration of the $p$-Laplacian equation, as a nonlinear elliptic equation, brings great trouble to usual LDG methods based on the weak formulation. As an alternative, the LDG method built upon the minimization formulation, which is equivalent to the primal formulation, proves to be a practical solution due to its provable convergence and numerical stability. In order to solve the resulting discrete minimization problem, we employed a preconditioner, which can be explained as either a regularized Newton-Raphson method or an first-order explicit gradient flow method, to make the convergence behavior both $hk$-independent. Besides, we provided a priori error estimates through the minimization formulation, which is, however, not optimal. 
+The intrinsic singularity or degeneration of the $p$-Laplace equation, as a nonlinear elliptic equation, brings great trouble to usual LDG methods based on the weak formulation. As an alternative, the LDG method built upon the minimization formulation, which is equivalent to the primal formulation, proves to be a practical solution due to its provable convergence and numerical stability. In order to solve the resulting discrete minimization problem, we employed a preconditioner, which can be explained as either a regularized Newton-Raphson method or an first-order explicit gradient flow method, to make the convergence behavior both $hk$-independent. Besides, we provided a priori error estimates through the minimization formulation, which is, however, not optimal. 
 
 <center>
     <img style = "
