@@ -12,7 +12,7 @@ redirect_from:
 Short Bio
 ===
 
-I am **Yue WU**, a 4th-year undergraduate student at the [School of the Gifted Young](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/). I am interested in high-order numerical methods for PDEs. 
+I am **Yue WU**, a 4th-year undergraduate student at the [School of the Gifted Young](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/). My research interest is high-order numerical methods for PDEs. 
 
 
 Education
@@ -28,7 +28,7 @@ Honors and Awards
 1. China National Scholarship, 2020-2021 academic year, Dec. 2021 
 2. China National Scholarship, 2019-2020 academic year, Dec. 2020 
 3. Gold Prize, USTC Outstanding Student Scholarship, 2021-2022 academic year, Oct. 2022 
-4. Excellence Prize, the 13th S.-T. Yau College Student Mathematics Contest, Analysis and PDEs track, Aug. 2022 
+4. Excellence Prize, the 13th S.-T. Yau College Student Mathematics Contest, Analysis and Differential Equations track, Aug. 2022 
 5. Second Prize, the 13th China National Mathematics Competition for College Students, Dec. 2021 
 6. Promotional Ambassador for Wuxi as an Outstanding Student Representative, Aug. 2020 
 7. Third Prize, USTC Freshman Scholarship, Sept. 2019 
