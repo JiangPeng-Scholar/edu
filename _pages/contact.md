@@ -10,9 +10,9 @@ author_profile: true
 
 **Pronouns**: he / him / his
 
-**E-mail**: [yue_wu3@brown.edu](mailto:yue_wu3@brown.edu), [pilotjohnwu@mail.ustc.edu.cn](mailto:pilotjohnwu@mail.ustc.edu.cn) 
+**E-mail**: [yue_wu3@brown.edu](mailto:yue_wu3@brown.edu), [pilotjohnwu@mail.ustc.edu.cn](mailto:pilotjohnwu@mail.ustc.edu.cn), [yue_wu@ustc.edu](mailto:yue_wu@ustc.edu) 
 
-**Personal Website**: [http://home.ustc.edu.cn/~pilotjohnwu](http://home.ustc.edu.cn/~pilotjohnwu)
+**Personal Website**: [https://yuewu2002.github.io/](https://yuewu2002.github.io/)
 
 **Mailing address**:
 ```txt
