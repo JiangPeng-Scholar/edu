@@ -9,27 +9,27 @@ redirect_from:
 ---
 
 
-
-I am **Yue WU**, a 4th-year undergraduate student at the [School of the Gifted Young](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/). My research interest is high-order numerical methods for PDEs. 
+I just graduate from [School of the Gifted Young (SCGY)](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/), and I am going to Brown University in fall 2023. My research interest is high-order numerical methods for PDEs. 
 
 
 Education
 ===
 
-* 09/2019 --- 07/2023: B.S. in Information & Computational Science, School of the Gifted Young, University of Science and Technology of China (2019 fall -- 2023 summer GPA: 3.96/4.3, rank: 1st in the major) 
+* 09/2019 --- 07/2023: B.S. in Information & Computational Science, School of the Gifted Young, University of Science and Technology of China (overall GPA: 3.96/4.3, rank in the major: 1st/40) 
 * 09/2017 --- 07/2020: Wuxi No.1 High School 
 
 
 Honors and Awards
 ===
 
-1. China National Scholarship, Dec. 2021 
-2. China National Scholarship, Dec. 2020 
-3. Gold Prize, USTC Outstanding Student Scholarship, Oct. 2022 
-4. Excellence Prize, the 13th S.-T. Yau College Student Mathematics Contest, Analysis and Differential Equations track, Aug. 2022 
-5. Second Prize, the 13th China National Mathematics Competition for College Students, Dec. 2021 
-6. Promotional Ambassador for Wuxi as an Outstanding Student Representative, Aug. 2020 
-7. Third Prize, USTC Freshman Scholarship, Sept. 2019 
+1. USTC Outstanding Undergraduate Award, 06/2023 
+2. Gold Prize, USTC Outstanding Student Scholarship, 10/2022 
+3. Excellence Prize, the 13th S.-T. Yau College Student Mathematics Contest, Analysis and PDEs track, 08/2022 
+4. China National Scholarship, 12/2021 
+5. Second Prize, the 13th Chinese Mathematics Competitions (CMC), 12/2021 
+6. China National Scholarship, 12/2020 
+7. Promotional Ambassador for Wuxi as an Outstanding Student Representative, 08/2020 
+8. Third Prize, USTC Freshman Scholarship, 09/2019 
 
 
 Activities
@@ -41,7 +41,7 @@ Activities
 * 03/2022 --- 06/2022: participant, analysis and PDE seminar for the S.-T. Yau College Student Mathematics Contest, supervisor: [Prof. Hao YIN](http://staff.ustc.edu.cn/~haoyin/) 
 * 03/2022 --- 06/2023: monitor, class 2019-3 for math-majored students at the School of the Gifted Young 
 * 06/2022: rewarded problem solver, Vol. 64, Warming (an in-school math magazine held by USTC Math Department) 
-* 06/2023: finalist, the 14th S.-T. Yau College Student Mathematics Contest, Applied and Computational Math track 
+* 06/2023: finalist, the 14th S.-T. Yau College Student Mathematics Contest, Applied and Computational Math track (rank: 2) 
 
 ---
 
