@@ -23,13 +23,15 @@ Honors and Awards
 ===
 
 1. USTC Outstanding Undergraduate Award, 06/2023 
-2. Gold Prize, USTC Outstanding Student Scholarship, 10/2022 
-3. Excellence Prize, the 13th S.-T. Yau College Student Mathematics Contest, Analysis and PDEs track, 08/2022 
-4. China National Scholarship, 12/2021 
-5. Second Prize, the 13th Chinese Mathematics Competitions (CMC), 12/2021 
-6. China National Scholarship, 12/2020 
-7. Promotional Ambassador for Wuxi as an Outstanding Student Representative, 08/2020 
-8. Third Prize, USTC Freshman Scholarship, 09/2019 
+2. Individual “Chia-Chiao Lin” Gold Medal (top 1), the 14th S.-T. Yau College Student Math Contest, Applied and Comp. Math track, 06/2023 
+3. Team Silver Medal (top 1 in Applied and Comp. Math part), the 14th S.-T. Yau College Student Math Contest, 06/2023 
+4. Gold Prize, USTC Outstanding Student Scholarship, 10/2022 
+5. Excellence Prize, the 13th S.-T. Yau College Student Math Contest, Analysis and PDEs track, 08/2022 
+6. China National Scholarship, 12/2021 
+7. Second Prize, the 13th Chinese Math Competitions (CMC), 12/2021 
+8. China National Scholarship, 12/2020 
+9. Promotional Ambassador for Wuxi as an Outstanding Student Representative, 08/2020 
+10. Third Prize, USTC Freshman Scholarship, 09/2019 
 
 
 Activities
@@ -38,10 +40,9 @@ Activities
 * 09/2019 --- 06/2020: group leader, "Science and Society" Freshman Seminar, supervisor: [Prof. Jinjin ZHENG](http://staff.ustc.edu.cn/~jjzheng/) 
 * 09/2019 --- 06/2023: member, USTC cycling team 
 * 01/2021: First Prize, the 2020 Fall Electromagnetics Essay Competition 
-* 03/2022 --- 06/2022: participant, analysis and PDE seminar for the S.-T. Yau College Student Mathematics Contest, supervisor: [Prof. Hao YIN](http://staff.ustc.edu.cn/~haoyin/) 
+* 03/2022 --- 06/2022: participant, analysis and PDE seminar for the S.-T. Yau College Student Math Contest, supervisor: [Prof. Hao YIN](http://staff.ustc.edu.cn/~haoyin/) 
 * 03/2022 --- 06/2023: monitor, class 2019-3 for math-majored students at the School of the Gifted Young 
 * 06/2022: rewarded problem solver, Vol. 64, Warming (an in-school math magazine held by USTC Math Department) 
-* 06/2023: finalist, the 14th S.-T. Yau College Student Mathematics Contest, Applied and Computational Math track (rank: 2) 
 
 ---
 
