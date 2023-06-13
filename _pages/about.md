@@ -23,7 +23,7 @@ Honors and Awards
 ===
 
 1. USTC Outstanding Undergraduate Award, 06/2023 
-2. Individual “Chia-Chiao Lin” Gold Medal (top 1), the 14th S.-T. Yau College Student Math Contest, Applied and Comp. Math track, 06/2023 
+2. [Individual “Chia-Chiao Lin” Gold Medal](../files/awards/2023YauGold.jpg) (top 1), the 14th S.-T. Yau College Student Math Contest, Applied and Comp. Math track, 06/2023 
 3. Team Silver Medal (top 1 in Applied and Comp. Math part), the 14th S.-T. Yau College Student Math Contest, 06/2023 
 4. Gold Prize, USTC Outstanding Student Scholarship, 10/2022 
 5. Excellence Prize, the 13th S.-T. Yau College Student Math Contest, Analysis and PDEs track, 08/2022 
