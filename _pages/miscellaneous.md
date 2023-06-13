@@ -41,8 +41,8 @@ Pictures
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/pictures/cloud.jpg" 
-        width = "50%">
+        src = "../files/pictures/with-ST-Yau.jpg" 
+        width = "60%">
     <br>
     <div style = "
         color: orange;
@@ -50,25 +50,7 @@ Pictures
         display: inline-block;
         color: #999;
         padding: 2px;">
-        A photo of some cloud taken in Oct, 2021. I wonder whether it has something to do with the boundary layer turbulance?
-    </div>
-    <p> </p>
-</center>
-
-<center>
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/pictures/turtle-head-peninsula.jpg" 
-        width = "50%">
-    <br>
-    <div style = "
-        color: orange;
-        border-bottom: 1px solid #d9d9d9;
-        display: inline-block;
-        color: #999;
-        padding: 2px;">
-        shot with my Huawei P30 pro at the famous <a href = "http://en.ytz.com.cn/">Turtle Head Peninsula</a> on Jan 10, 2023
+        Photo with Prof. Shing-Tung Yau, at the award ceremony of the 14th S.-T. Yau College Student Math Contest, in which I won a gold and a silver medal. 
     </div>
     <p> </p>
 </center>
