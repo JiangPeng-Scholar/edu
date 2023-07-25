@@ -25,13 +25,14 @@ Honors and Awards
 1. USTC Outstanding Undergraduate Award, 06/2023 
 2. [Individual “Chia-Chiao Lin” Gold Medal](../files/awards/2023YauGold.jpg) (top 1), the 14th S.-T. Yau College Student Math Contest, Applied and Comp. Math track, 06/2023 
 3. Team Silver Medal (top 1 in Applied and Comp. Math part), the 14th S.-T. Yau College Student Math Contest, 06/2023 
-4. Gold Prize, USTC Outstanding Student Scholarship, 10/2022 
-5. Excellence Prize, the 13th S.-T. Yau College Student Math Contest, Analysis and PDEs track, 08/2022 
-6. China National Scholarship, 12/2021 
-7. Second Prize, the 13th Chinese Math Competitions (CMC), 12/2021 
-8. China National Scholarship, 12/2020 
-9. Promotional Ambassador for Wuxi as an Outstanding Student Representative, 08/2020 
-10. Third Prize, USTC Freshman Scholarship, 09/2019 
+4. Excellence Prize, the 14th S.-T. Yau College Student Math Contest, Analysis and PDEs track, 06/2023 
+5. Gold Prize, USTC Outstanding Student Scholarship, 10/2022 
+6. Excellence Prize, the 13th S.-T. Yau College Student Math Contest, Analysis and PDEs track, 08/2022 
+7. China National Scholarship, 12/2021 
+8. Second Prize, the 13th Chinese Math Competitions (CMC), 12/2021 
+9. China National Scholarship, 12/2020 
+10. Promotional Ambassador for Wuxi as an Outstanding Student Representative, 08/2020 
+11. Third Prize, USTC Freshman Scholarship, 09/2019 
 
 
 Activities
