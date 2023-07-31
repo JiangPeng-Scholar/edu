@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-
-I just graduate from [School of the Gifted Young (SCGY)](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/), and I am going to Brown University in fall 2023. My research interest is high-order numerical methods for PDEs. 
+I am a graduate student in the [Division of Applied Mathematics](https://appliedmath.brown.edu/) at Brown University. My research interest is high-order numerical methods for PDEs. 
 
 
 Education
 ===
 
-* 09/2019 --- 07/2023: B.S. in Information & Computational Science, School of the Gifted Young, University of Science and Technology of China (overall GPA: 3.96/4.3, rank in the major: 1st/40) 
+* 09/2019 --- 07/2023: B.S. in Information & Computational Science, [School of the Gifted Young (SCGY)](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/) (overall GPA: 3.96/4.3, rank in the major: 1st/40) 
 * 09/2017 --- 07/2020: Wuxi No.1 High School 
 
 
