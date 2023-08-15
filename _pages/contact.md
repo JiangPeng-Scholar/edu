@@ -8,16 +8,14 @@ author_profile: true
 
 **Name**: WU, Yue 
 
-**Pronouns**: he / him / his
+**Pronouns**: he / him / his 
 
-**E-mail**: [yue_wu3@brown.edu](mailto:yue_wu3@brown.edu), [pilotjohnwu@mail.ustc.edu.cn](mailto:pilotjohnwu@mail.ustc.edu.cn), [yue_wu@ustc.edu](mailto:yue_wu@ustc.edu) 
+**E-mail**: [yue_wu3@brown.edu](mailto:yue_wu3@brown.edu) 
 
-**Personal Website**: [https://yuewu2002.github.io/](https://yuewu2002.github.io/)
+**Website**: [https://yuewu2002.github.io/](https://yuewu2002.github.io/) 
 
-**Mailing address**:
+**Address**: 
 ```txt
-Rm. 508, Bldg. 2, 
-Mid Camp., Univ. of Sci. & Tech. of China, 
-373 Huangshan Rd., Shushan Dist., 
-Hefei, Anhui, China, 230022 
+Rm. 106, 180 George St. 
+Providence, RI 02906 
 ```

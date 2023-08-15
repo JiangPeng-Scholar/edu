@@ -14,6 +14,7 @@ I am a graduate student in the [Division of Applied Mathematics](https://applied
 Education
 ===
 
+* 09/2023 --- now: Division of Applied Mathematics, Brown University 
 * 09/2019 --- 07/2023: B.S. in Information & Computational Science, [School of the Gifted Young (SCGY)](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/) (overall GPA: 3.96/4.3, rank in the major: 1st/40) 
 * 09/2017 --- 07/2020: Wuxi No.1 High School 
 

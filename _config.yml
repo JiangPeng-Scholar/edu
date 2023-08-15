@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yue WU"
+title                    : "WU, Yue"
 title_separator          : "-"
-name                     : &name "Yue WU"
+name                     : &name "WU, Yue"
 description              : &description "personal description"
 url                      : https://yuewu2002.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yue WU"
+  name             : "WU, Yue"
   avatar           : "profile.png"
-  bio              : "Undergraduate at University of Science and Technology of China (USTC)"
-  location         : "Rm. 508, Bldg. 2,<br>&emsp;&nbsp; USTC Mid Camp.,<br>&emsp;&nbsp; 373 Huangshan Rd.,<br>&emsp;&nbsp; Hefei, Anhui, China, 230022"
+  bio              : "Graduate student"
+  location         : "Brown University"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "yue_wu3@brown.edu"
-  researchgate     : "https://researchgate.net/profile/Yue-Wu-226"
+  researchgate     : #"https://researchgate.net/profile/Yue-Wu-226"
   uri              :
   bitbucket        :
   codepen          :
