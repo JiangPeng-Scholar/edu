@@ -5,18 +5,20 @@ permalink: /contact/
 author_profile: true
 ---
 
+**E-mail**: `yue_wu3 at brown.edu` 
 
-**Name**: WU, Yue 
-
-**Pronouns**: he / him / his 
-
-**E-mail**: [yue_wu3@brown.edu](mailto:yue_wu3@brown.edu) 
-
-**Website**: [https://yuewu2002.github.io/](https://yuewu2002.github.io/) 
-
-**Address**: 
+**Office**:
 ```txt
 Rm. 106, Center for Computation & Visualization 
 180 George St. 
-Providence, RI 02906 
+Providence, RI 02906, USA 
+```
+
+**Mailing**: 
+```txt
+Wu, Yue 
+Division of Applied Mathematics 
+182 George St., Box F 
+Brown University 
+Providence, RI 02912, USA 
 ```
