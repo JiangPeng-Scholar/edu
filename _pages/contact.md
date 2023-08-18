@@ -16,6 +16,7 @@ author_profile: true
 
 **Address**: 
 ```txt
-Rm. 106, 180 George St. 
+Rm. 106, Center for Computation & Visualization 
+180 George St. 
 Providence, RI 02906 
 ```
