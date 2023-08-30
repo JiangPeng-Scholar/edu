@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-**E-mail**: `yue_wu3 at brown.edu` 
+**E-mail**: `yue_wu3 [at] brown [dot] edu` 
 
 **Office**:
 ```txt
@@ -16,9 +16,8 @@ Providence, RI 02906, USA
 
 **Mailing**: 
 ```txt
-Wu, Yue 
-Division of Applied Mathematics 
-182 George St., Box F 
+Yue Wu 
 Brown University 
+Division of Applied Mathematics, Box F 
 Providence, RI 02912, USA 
 ```
