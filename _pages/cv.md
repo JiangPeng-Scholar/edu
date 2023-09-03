@@ -8,9 +8,9 @@ author_profile: true
 Education
 ===
 
-* 09/2023 --- now: [Division of Applied Mathematics](https://appliedmath.brown.edu/){:target="_blank"}, Brown University 
+* 09/2023 --- present: Graduate student, [Division of Applied Mathematics](https://appliedmath.brown.edu/){:target="_blank"}, Brown University 
 * 09/2019 --- 07/2023: B.S. in Information & Computational Science, [School of the Gifted Young (SCGY)](http://en.scgy.ustc.edu.cn/){:target="_blank"}, [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/){:target="_blank"} (overall GPA: 3.96/4.3, rank in the major: 1st/40) 
-* 09/2017 --- 07/2020: Wuxi No.1 High School 
+* 09/2017 --- 07/2019: Wuxi No.1 High School 
 
 
 Honors and Awards

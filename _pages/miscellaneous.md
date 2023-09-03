@@ -27,7 +27,7 @@ Links
 * LibGen: [libgen.gs](https://libgen.gs){:target="_blank"} 
 * iCourse Club, USTC: [icourse.club](https://icourse.club){:target="_blank"} 
 * Intel OneAPI Toolkits: [OneAPI](https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html){:target="_blank"} 
-* S.-T. Yau College Student Mathematics Contest: [Yau-Contest](www.yau-contest.com/en){:target="_blank"} 
+* S.-T. Yau College Student Mathematics Contest: [Yau-Contest](http://yau-contest.com/en){:target="_blank"} 
 * Warming Math Magazine (USTC Math Department): [Warming](http://staff.ustc.edu.cn/~mathsu01/pu/waming.html){:target="_blank"} 
 * AcademicPages (template for this website): [academicpages](https://github.com/academicpages/){:target="_blank"} 
 * VSCode portable: [VSCode portable](https://code.visualstudio.com/docs/editor/portable){:target="_blank"} 
