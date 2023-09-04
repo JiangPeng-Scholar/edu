@@ -8,10 +8,10 @@ author_profile: true
 [//]: <> (如果要设置图片大小什么的，尽量去设置宽度而不是高度，因为你设置的高度会被CSS的 height: auto 覆盖掉；但是设置 width=60% 会导致编译失败，一定要写 width="60%")
 
 
-A cycling enthusiast
+A road cycler 
 ---
 
-I have been enthusiastic about bicycling since middle school. In summer 2019 I bought an aerobike *Giant 2018 PROPEL ADV PRO 2*, trained a lot and made my first ITT (individual time trial) good record of covering 8.77 km with an average speed of 41.29 km/h by the Taihu Lake (China's 3rd largest freshwater lake), Wuxi on Sept. 14, 2019. After one year, a better ITT record of covering 8.77 km with an average speed of 42.44 km/h on May. 31, 2020.
+I have been enthusiastic about bicycling since middle school. In summer 2019 I bought an aerobike *Giant 2018 PROPEL ADV PRO 2*, trained a lot and made my first ITT (individual time trial) good record of covering 8.77 km with an average speed of 41.29 km/h by Lake Taihu, Wuxi on Sept. 14, 2019. After one year, a better ITT record of covering 8.77 km with an average speed of 42.44 km/h on May. 31, 2020. 
 
 <center>
     <img style = "
@@ -236,6 +236,29 @@ Pictures
         color: #999;
         padding: 2px;">
         riding beside the Chaohu Lake, Mar. 2023
+    </div>
+    <p> </p>
+</center>
+
+<center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/riding/13.jpg" 
+        width = "49%">
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/riding/14.jpg" 
+        width = "49%">
+    <br>
+    <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        local cycling club event (more than 100 people), Aug. 2023
     </div>
     <p> </p>
 </center>
