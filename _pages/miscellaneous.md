@@ -50,7 +50,7 @@ Gallery
         display: inline-block;
         color: #999;
         padding: 2px;">
-        photo with Prof. Shing-Tung Yau (the only Fields medalist from China), at the award ceremony of the 14th S.-T. Yau College Student Math Contest, in which I won a gold and a silver medal
+        photo with Prof. Shing-Tung Yau (the only Fields medalist from China), at the award ceremony of the 14th S.-T. Yau College Student Mathematics Contest, in which I won a gold and a silver medal
     </div>
     <p> </p>
 </center>
