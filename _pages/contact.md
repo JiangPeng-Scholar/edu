@@ -9,10 +9,10 @@ author_profile: true
 
 **Office**: \
 180 George St, Rm 106 \
-Providence, RI 02906 
+Providence, RI 02912 
 
 **Mailing**: \
-Division of Applied Mathematics, Box F \
+Yue Wu \
 Brown University \
-182 George St \
+Division of Applied Mathematics, Box F \
 Providence, RI 02912 
