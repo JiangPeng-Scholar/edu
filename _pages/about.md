@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+Short Bio
+===
+
 Yue Wu is a graduate student in the Division of Applied Mathematics at Brown University. He graduated from the School of the Gifted Young at the University of Science and Technology of China (USTC), earning a B.S. degree in Information and Computational Science. His research interests include Numerical Analysis, Scientific Computing, and Computational Fluid Dynamics (CFD). Outside of his academic life, he is an aviation enthusiast and enjoys road bicycle racing and hiking. 
 
 ---
