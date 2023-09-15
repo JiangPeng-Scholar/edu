@@ -13,6 +13,6 @@ Providence, RI 02912
 
 **Mailing**: \
 Yue Wu \
-Brown University \
 Division of Applied Mathematics, Box F \
+Brown University \
 Providence, RI 02912 
