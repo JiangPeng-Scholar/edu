@@ -227,7 +227,23 @@ Pictures
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/riding/12.jpg" 
-        width = "60%">
+        width = "49%">
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/riding/15.jpg" 
+        width = "49%">
+    <br>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/riding/16.jpg" 
+        width = "49%">
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/riding/17.jpg" 
+        width = "49%">
     <br>
     <div style = "
         color: orange;
@@ -235,7 +251,7 @@ Pictures
         display: inline-block;
         color: #999;
         padding: 2px;">
-        riding beside the Chaohu Lake, Mar. 2023
+        riding by the Chaohu Lake at a local club event, Mar. 2023
     </div>
     <p> </p>
 </center>
