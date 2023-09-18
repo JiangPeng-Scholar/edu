@@ -22,7 +22,7 @@ Links
 ===
 
 * USTC: [en.ustc.edu.cn](https://en.ustc.edu.cn){:target="_blank"} 
-* SCGY, USTC: [en.scgy.ustc.edu.cn](https://en.scgy.ustc.edu.cn){:target="_blank"} 
+* SGY, USTC: [en.scgy.ustc.edu.cn](https://en.scgy.ustc.edu.cn){:target="_blank"} 
 * Math, USTC: [math.ustc.edu.cn](http://math.ustc.edu.cn/ENGLISH/list.htm){:target="_blank"} 
 * LibGen: [libgen.gs](https://libgen.gs){:target="_blank"} 
 * iCourse Club, USTC: [icourse.club](https://icourse.club){:target="_blank"} 

@@ -5,14 +5,17 @@ permalink: /contact/
 author_profile: true
 ---
 
+**Name in Chinese**: 吴越
+
 **Email**: Yue_Wu3 [at] Brown [dot] edu 
 
 **Office**: \
-180 George St, Rm 106 \
-Providence, RI 02912 
+Rm. 106, 180 George St. \
+Providence, RI 02912, USA 
 
 **Mailing**: \
 Yue Wu \
-Division of Applied Mathematics, Box F \
+Division of Applied Mathematics \
 Brown University \
-Providence, RI 02912 
+182 George St. \
+Providence, RI 02912, USA 
