@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yue Wu"
   avatar           : "profile.png"
-  bio              : "Graduate student"
+  bio              : "Graduate Student"
   location         : #"Providence, RI"
   employer         : "Brown University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"yuewu2002"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

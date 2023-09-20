@@ -11,11 +11,11 @@ author_profile: true
 
 **Office**: \
 Rm. 106, 180 George St. \
-Providence, RI 02912, USA 
+Providence, Rhode Island 
 
 **Mailing**: \
 Yue Wu \
 Division of Applied Mathematics \
 Brown University \
 182 George St. \
-Providence, RI 02912, USA 
+Providence, RI 02912-9056, U.S. 
