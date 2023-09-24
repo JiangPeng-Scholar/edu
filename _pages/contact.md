@@ -10,12 +10,13 @@ author_profile: true
 **Email**: Yue_Wu3 [at] Brown [dot] edu 
 
 **Office**: \
-Rm. 106, 180 George St. \
-Providence, Rhode Island 
+Center for Computation and Visualization, Room 106 \
+180 George Street \
+Providence, RI 02906, USA 
 
 **Mailing**: \
 Yue Wu \
 Division of Applied Mathematics \
-Brown University \
-182 George St. \
-Providence, RI 02912-9056, U.S. 
+Brown University, Box F \
+182 George Street \
+Providence, RI 02912-9106, USA 
