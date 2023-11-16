@@ -21,7 +21,7 @@ redirect_from:
 
 # Preprints 
 
-1. Y. Wu and Y. Xu. A high-order local discontinuous Galerkin method for the $p$-Laplace equation (special issue in honor of Chi-Wang Shu's 65th birthday). Submitted to *Beijing Journal of Pure and Applied Mathematics*. [arXiv:2311.09119](https://arxiv.org/abs/2311.09119){:target="_blank"}.
+1. Y. Wu and Y. Xu, "A high-order local discontinuous Galerkin method for the $p$-Laplace equation" (special issue in honor of Chi-Wang Shu's 65th birthday), submitted to *Beijing Journal of Pure and Applied Mathematics*, Nov. 2023. [arXiv:2311.09119 [math.NA]](https://arxiv.org/abs/2311.09119){:target="_blank"}. DOI: [10.48550/arXiv.2311.09119](https://doi.org/10.48550/arXiv.2311.09119){:target="_blank"}. 
 
 ---
 
