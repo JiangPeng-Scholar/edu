@@ -5,8 +5,6 @@ permalink: /contact/
 author_profile: true
 ---
 
-**Name in Chinese**: 吴越
-
 **Email**: Yue_Wu3 [at] Brown [dot] edu 
 
 **Office**: \
