@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-# Research interets
+# Research Interets
 
 1. High-order numerical methods for PDEs: 
    - Discontinuous Galerkin finite element methods 
