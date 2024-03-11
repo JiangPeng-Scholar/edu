@@ -24,7 +24,7 @@ Education
 ===
 
 - 09/2023 ~ Present: Ph.D. Student, [Division of Applied Mathematics](https://appliedmath.brown.edu/){:target="_blank"}, [Brown University](https://www.brown.edu/){:target="_blank"}. 
-- 09/2019 ~ 06/2023: B.S. in Information & Computational Science, [School of the Gifted Young](https://en.scgy.ustc.edu.cn){:target="_blank"}, [University of Science and Technology of China](https://en.ustc.edu.cn){:target="_blank"}. 
+- 09/2019 ~ 06/2023: B.Sc. in Information & Computational Science, [School of the Gifted Young](https://en.scgy.ustc.edu.cn){:target="_blank"}, [University of Science and Technology of China](https://en.ustc.edu.cn){:target="_blank"}. 
     * GPA: 3.96 / 4.30 (91.77 / 100.00) (Rank 1st / 40 in the major). 
 - 09/2017 ~ 06/2019: Wuxi No. 1 High School. 
 
