@@ -15,6 +15,8 @@ Yue Wu (吴越) is a 1st-year Ph.D. student in the [Division of Applied Mathemat
 
 Outside of his academic life, he is an aviation enthusiast and enjoys road cycling and hiking. He grew up in Wuxi, a beautiful city in east China. 
 
+Please find his CV [here](../files/cv.pdf){:target="_blank"}. 
+
 ---
 
 <center>
