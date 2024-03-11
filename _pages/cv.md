@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-Here is my [CV](../files/cv.pdf){:target="_blank"}. 
+My CV is also available to download [here](../files/cv.pdf){:target="_blank"}. 
 
 <object data="../files/cv.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="../files/cv.pdf">
