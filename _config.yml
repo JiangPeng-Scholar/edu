@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Yue Wu"
   avatar           : "profile.jpg"
-  bio              : "Graduate Student"
+  bio              : "PhD Student"
   location         : "Providence, RI, USA"
   employer         : "Brown University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=LEFHW44AAAAJ"
   email            : "yue_wu3@brown.edu"
-  researchgate     : #"https://researchgate.net/profile/Yue-Wu-226"
+  researchgate     : "https://researchgate.net/profile/Yue-Wu-226"
   uri              :
   bitbucket        :
   codepen          :
