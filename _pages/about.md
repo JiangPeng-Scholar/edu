@@ -13,7 +13,7 @@ redirect_from:
 Short Bio
 ===
 
-Yue WU (吴越) is a 1st-year Ph.D. student in the [Division of Applied Mathematics](https://appliedmath.brown.edu/){:target="_blank"} at [Brown University](https://www.brown.edu/){:target="_blank"}. He graduated from the [School of the Gifted Young](https://en.scgy.ustc.edu.cn){:target="_blank"} at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn){:target="_blank"} with a B.S. degree in Information & Computational Science. His research interests include Numerical Analysis and Scientific Computing. 
+Yue WU (吴越) is a 1st-year Ph.D. student at Brown University. His research interests include Numerical Analysis and Scientific Computing. 
 
 Outside of his academic life, he is an aviation enthusiast and enjoys road cycling and hiking. He grew up in Wuxi, a beautiful city in east China. 
 
@@ -27,6 +27,7 @@ Education
 - 09/2019 ~ 06/2023: B.S. in Information & Computational Science, [School of the Gifted Young](https://en.scgy.ustc.edu.cn){:target="_blank"}, [University of Science and Technology of China](https://en.ustc.edu.cn){:target="_blank"}. 
     * GPA: 3.96 / 4.30 (91.77 / 100.00) (Rank 1st / 40 in the major). 
 - 09/2017 ~ 06/2019: Wuxi No. 1 High School. 
+
 
 Preprints 
 ===
