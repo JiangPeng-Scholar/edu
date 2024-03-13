@@ -10,10 +10,10 @@ redirect_from:
 
 [//]: 主页上只展示客观成果，主观的东西和需要展开讲的东西放到其他页面 
 
-Short Bio
+About
 ===
 
-Yue WU (吴越) is a 1st-year Ph.D. student at Brown University. His research interests include Numerical Analysis and Scientific Computing. 
+Yue Wu (吴越) is a 1st-year Ph.D. student at Brown University. His research interests include Numerical Analysis and Scientific Computing. 
 
 Outside of his academic life, he is an aviation enthusiast and enjoys road cycling and hiking. He grew up in Wuxi, a beautiful city in east China. 
 

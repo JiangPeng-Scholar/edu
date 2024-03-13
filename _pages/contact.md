@@ -5,14 +5,16 @@ permalink: /contact/
 author_profile: true
 ---
 
-**Email**: Yue_Wu3 [at] Brown [dot] edu, Yue_Wu [at] ustc [dot] edu
+**Email**: \
+Yue_Wu3 [at] Brown [dot] edu \
+Yue_Wu [at] USTC [dot] edu
 
 **Office**: \
 Center for Computation and Visualization, Room 106 \
 180 George Street \
 Providence, RI 02906, USA 
 
-**Mailing**: \
+**Mail**: \
 Yue Wu \
 Division of Applied Mathematics \
 Brown University, Box F \

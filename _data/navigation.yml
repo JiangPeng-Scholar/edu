@@ -32,3 +32,6 @@ main:
 
   - title: "Contact"
     url: /contact/
+
+  - title: "中文"
+    url: /chinese/

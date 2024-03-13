@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yue WU"
+title                    : "Wu, Yue (吴越)" # title on the upper-left corner of the page
 title_separator          : "-"
-name                     : &name "Yue WU"
+name                     : &name "Yue Wu"
 description              : &description "personal description"
 url                      : https://yuewu2002.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yue WU"
+  name             : "Yue Wu"
   avatar           : "profile.jpg"
   bio              : "Ph.D. Student"
   location         : "Providence, RI, USA"
