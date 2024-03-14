@@ -66,7 +66,6 @@ We virtually discussed this research with [Prof. Chi-Wang SHU](https://www.dam.b
 Research report (in Chinese) preview: [here](../files/undergraduate-research-program/main.pdf){:target="_blank"}; Defense PPT (in Chinese) preview: [here](../files/undergraduate-research-program/PPT.pdf){:target="_blank"}. 
 
 
-
 ## 2. Positivity-Preserving Conservative Low-Rank Methods for Vlasov Dynamics 
 
 Supervisor: [Prof. Xiangxiong ZHANG](https://www.math.purdue.edu/~zhan1966/){:target="_blank"} 
@@ -131,8 +130,6 @@ We virtually discussed this research with [Prof. Jing-Mei QIU](https://jingmeiqi
     <p> </p>
 </center>
 
-(still in progress) 
-
 
 ## 3. Discontinuous Galerkin Methods for the $p$-Laplace Equation 
 
@@ -140,7 +137,7 @@ We virtually discussed this research with [Prof. Jing-Mei QIU](https://jingmeiqi
 
 Supervisor: [Prof. Yan XU](https://faculty.ustc.edu.cn/yxu){:target="_blank"} 
 
-Feb 2023 --- June 2023, USTC (still in progress) 
+Dec 2022 --- June 2023, USTC 
 
 The intrinsic singularity or degeneration of the $p$-Laplace equation, as a nonlinear elliptic equation, brings great trouble to usual LDG methods based on the weak formulation. As an alternative, the LDG method built upon the minimization formulation, which is equivalent to the primal formulation, proves to be a practical solution due to its provable convergence and numerical stability. In order to solve the resulting discrete minimization problem, we employed a preconditioner, which can be explained as either a regularized Newton-Raphson method or an first-order explicit gradient flow method, to make the convergence behavior both $hk$-independent. Besides, we provided a priori error estimates through the minimization formulation, which is, however, not optimal. 
 

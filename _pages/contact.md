@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 **Email**: \
-Yue_Wu3 [at] Brown [dot] edu \
-Yue_Wu [at] USTC [dot] edu
+Yue_Wu3 [at] Brown [dot] edu 
 
 **Office**: \
 Center for Computation and Visualization, Room 106 \
