@@ -77,7 +77,7 @@ author_profile: true
 
 文件分享
 ===
-- 中国科大 数学分析B 课程笔记（含历年期末试题解答） [文件](../files/calculus.pdf){:target="_blank"} 
+- 中国科大 数学分析B2 课程笔记（含作业题和历年期末试题解答） [文件](../files/calculus.pdf){:target="_blank"} 
 - 中国科大 微分方程I（现微分方程引论）课程笔记 [文件](../files/note1.pdf){:target="_blank"} 
 - 中国科大 有限元方法 课程作业 [HW1](../files/FEM/HW1.pdf){:target="_blank"} (一维线性单元)，[HW2](../files/FEM/HW2.pdf){:target="_blank"} (一维二次单元)，[HW3](../files/FEM/HW3.pdf){:target="_blank"} (一维纯Neumann边界)，[HW4](../files/FEM/HW4.pdf){:target="_blank"} (二维线性单元)，[HW5](../files/FEM/HW5.pdf){:target="_blank"} (二维二次单元) 
 - 有限差分 WENO 方法笔记 [文件](../files/demo1.pdf){:target="_blank"} 
