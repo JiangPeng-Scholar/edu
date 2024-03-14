@@ -22,10 +22,12 @@ Please find his CV [here](../files/cv.pdf){:target="_blank"}.
 Education 
 ===
 
-- 09/2023 ~ Present: Ph.D. Student, [Division of Applied Mathematics](https://appliedmath.brown.edu/){:target="_blank"}, [Brown University](https://www.brown.edu/){:target="_blank"}. 
-- 09/2019 ~ 06/2023: B.Sc. in Information & Computational Science, [School of the Gifted Young](https://en.scgy.ustc.edu.cn){:target="_blank"}, [University of Science and Technology of China](https://en.ustc.edu.cn){:target="_blank"}. 
-    * GPA: 3.96 / 4.30 (91.77 / 100.00) (Rank 1st / 40 in the major). 
-- 09/2017 ~ 06/2019: Wuxi No. 1 High School. 
+- 09/2023 ~ Present: [Division of Applied Mathematics](https://appliedmath.brown.edu/){:target="_blank"}, [Brown University](https://www.brown.edu/){:target="_blank"} 
+    - Ph.D. Student 
+- 09/2019 ~ 06/2023: [School of the Gifted Young](https://en.scgy.ustc.edu.cn){:target="_blank"}, [University of Science and Technology of China](https://en.ustc.edu.cn){:target="_blank"} 
+    - B.Sc. in Information & Computational Science 
+    - GPA: 3.96 / 4.30 (91.77 / 100.00) (Rank 1st / 40 in the major) 
+- 09/2017 ~ 06/2019: Wuxi No. 1 High School 
 
 
 Preprints 
@@ -52,6 +54,12 @@ Honors and Awards
 Teaching Experiences 
 ===
 - Spring 2022, USTC: Undergraduate Teaching Assistant, Computational Methods B (Instructor: [Prof. Jingrun CHEN](https://faculty.ustc.edu.cn/chenjingrun/en/index/601834/list/index.htm){:target="_blank"}). 
+
+
+Skills
+===
+- Programming Languages: C/C++, Matlab, Fortran 95/2003, Python, $\LaTeX$ 
+- Parallel Computing: MPI, OpenMP, Coarray Fortran 
 
 
 ---

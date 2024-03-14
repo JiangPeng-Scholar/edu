@@ -8,7 +8,7 @@ author_profile: true
 简介
 ===
 
-**吴越**，男，无锡人。现为布朗大学应用数学系的博士生，于2023年秋季入学。目前的研究方向是数值分析与科学计算，主要内容为高阶数值方法（有限差分、有限体积、（间断）有限元、谱元法等）。
+**吴越**，男，无锡人。现为布朗大学应用数学系的博士生，于2023年秋季入学。目前的研究方向是数值分析与科学计算，主要内容为偏微分方程的高阶数值方法（有限差分、有限体积、（间断）有限元、谱元法等）。
 
 联系方式：[yue_wu3@brown.edu](mailto:yue_wu3@brown.edu) 
 
@@ -63,7 +63,8 @@ author_profile: true
 
 专业技能
 ===
-- 计算机：C/C++, Matlab, Fortran, Python, MPI, $\LaTeX$ 
+- 编程语言：C/C++, Matlab, Fortran 95/2003, Python, $\LaTeX$ 
+- 并行计算：MPI, OpenMP, Coarray Fortran 
 
 
 课外活动
@@ -79,3 +80,41 @@ author_profile: true
 - 中国科大 微分方程I（现微分方程引论）课程笔记 [文件](../files/note1.pdf){:target="_blank"} 
 - 中国科大 有限元方法 课程作业 [HW1](../files/FEM/HW1.pdf){:target="_blank"} (一维线性单元)，[HW2](../files/FEM/HW2.pdf){:target="_blank"} (一维二次单元)，[HW3](../files/FEM/HW3.pdf){:target="_blank"} (一维纯Neumann边界)，[HW4](../files/FEM/HW4.pdf){:target="_blank"} (二维线性单元)，[HW5](../files/FEM/HW5.pdf){:target="_blank"} (二维二次单元) 
 - 有限差分 WENO 方法笔记 [文件](../files/demo1.pdf){:target="_blank"} 
+
+
+---
+
+<center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/pictures/me-1.jpg" 
+        width = "30%">
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/pictures/me-2.jpg" 
+        width = "30%">
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/pictures/me-5.jpg" 
+        width = "30%">
+    <br>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/pictures/me-3.jpg" 
+        width = "30%">
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/pictures/me-4.jpg" 
+        width = "30%">
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/pictures/me-6.jpg" 
+        width = "30%">
+    <p> </p>
+</center>
