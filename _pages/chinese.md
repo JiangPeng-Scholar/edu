@@ -44,7 +44,7 @@ author_profile: true
     - 题目：核聚变中磁流体平衡态演化的数值模拟 
     - 导师：[张梦萍 教授](https://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=860){:target="_blank"} 
     - 摘要：可控热核聚变是一种解决能源危机与环境问题的理想选择之一。作为实现磁约束聚变的最可行的装置，托卡马克受到了广泛研究。托卡马克装置中的等离子体的撕裂模不稳定性对聚变反应会造成很大影响，因此其值得研究。在本研究中，为了数值模拟托卡马克中的等离子体平衡态演化过程，我们回顾了不同的 MHD 方程组，从中选择了一种合适的基于扰动量的非守恒形式的电阻 MHD 方程组，开发了三维柱坐标下基于混合有限差分-Fourier 伪谱法的并行程序。我们利用我们的程序模拟了 $(m,n)=(2,1)$ 的电阻撕裂模不稳定性，并与 CLT 代码和 M3D-C1 代码的计算结果进行比较。结果显示，我们的程序在数值结果在保持磁场数值散度、拟合动能对数增长率与电阻的理论关系、显示线性阶段独立于初始扰动的模结构、到达最终的饱和态等方面都展现出了令人满意的性能。
-    - 报告：[文件](../files/undergraduate-research-program/main.pdf){:target="_blank"} 
+    - 成果：[报告](../files/undergraduate-research-program/main.pdf){:target="_blank"}，[PPT](../files/undergraduate-research-program/PPT.pdf){:target="_blank"} 
 - 2022年6月 ~ 2022年8月：线上暑期研究 
     - 题目：Vlasov 方程的保正的守恒低秩方法 —— 带正交限制的非负矩阵低秩修正 
     - 导师：[张翔雄 副教授](https://www.math.purdue.edu/~zhan1966/){:target="_blank"} 
@@ -77,6 +77,7 @@ author_profile: true
 
 文件分享
 ===
+- 中国科大 数学分析B 课程笔记（含历年期末试题解答） [文件](../files/calculus.pdf){:target="_blank"} 
 - 中国科大 微分方程I（现微分方程引论）课程笔记 [文件](../files/note1.pdf){:target="_blank"} 
 - 中国科大 有限元方法 课程作业 [HW1](../files/FEM/HW1.pdf){:target="_blank"} (一维线性单元)，[HW2](../files/FEM/HW2.pdf){:target="_blank"} (一维二次单元)，[HW3](../files/FEM/HW3.pdf){:target="_blank"} (一维纯Neumann边界)，[HW4](../files/FEM/HW4.pdf){:target="_blank"} (二维线性单元)，[HW5](../files/FEM/HW5.pdf){:target="_blank"} (二维二次单元) 
 - 有限差分 WENO 方法笔记 [文件](../files/demo1.pdf){:target="_blank"} 

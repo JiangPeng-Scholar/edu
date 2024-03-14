@@ -8,16 +8,6 @@ redirect_from:
 ---
 
 
-File
-===
-
-My lecture notes (in Chinese) of *Differential Equations I* (ODEs and basic PDEs) can be viewed [here](../files/note1.pdf){:target="_blank"}. 
-
-Implementation and test results of FD-WENO schemes (in Chinese) can be viewed [here](../files/demo1.pdf){:target="_blank"}. 
-
-FEM homework reports can be found [HW1](../files/FEM/HW1.pdf){:target="_blank"} (1D linear element), [HW2](../files/FEM/HW2.pdf){:target="_blank"} (1D quadratic element), [HW3](../files/FEM/HW3.pdf){:target="_blank"} (1D purely Neumann BC), [HW4](../files/FEM/HW4.pdf){:target="_blank"} (2D linear element), [HW5](../files/FEM/HW5.pdf){:target="_blank"} (2D quadratic element). 
-
-
 Links
 ===
 
