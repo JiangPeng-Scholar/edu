@@ -10,7 +10,7 @@ author_profile: true
 
 **吴越**，男，无锡人。现为布朗大学应用数学系的博士生，于2023年秋季入学。目前的研究方向是数值分析与科学计算，主要内容为偏微分方程的高阶数值方法（有限差分、有限体积、（间断）有限元、谱元法等）。
 
-联系方式：[`yue_wu3@brown.edu`](mailto:yue_wu3@brown.edu "向该邮箱发送邮件") 
+联系方式：[yue_wu3@brown.edu](mailto:yue_wu3@brown.edu "向该邮箱发送邮件") 
 
 
 # 教育背景
