@@ -5,8 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-2022 spring at USTC: Teaching Assistant, Computational Methods B 
----
+# 2022 spring at USTC: Teaching Assistant, Computational Methods B 
 
 Instructor: [Prof. Jingrun CHEN](https://faculty.ustc.edu.cn/chenjingrun/en/index/601834/list/index.htm){:target="_blank"} 
 

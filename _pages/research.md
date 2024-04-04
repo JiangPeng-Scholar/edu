@@ -3,8 +3,6 @@ layout: archive
 title: ""
 permalink: /research/
 author_profile: true
-redirect_from: 
-  - /research_red/
 ---
 
 
@@ -168,8 +166,7 @@ The intrinsic singularity or degeneration of the $p$-Laplace equation, as a nonl
 ---
 
 
-Numerical PDE Programming (choronological order) 
-===
+# Numerical PDE Programming (choronological order) 
 
 | PDE | method | domain | mesh | language |
 | --- | --- | --- | --- | --- |
