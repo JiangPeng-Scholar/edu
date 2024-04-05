@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: ""
+title: "Welcome to Yue Wu's homepage!"
 author_profile: true
 redirect_from: 
   - /about/
