@@ -37,9 +37,9 @@ Defense: 12/30/2022
 
 The controlled nuclear fusion is one of the most prospective solution to the energy crisis and environmental problems. The tokamak has been widely investigated as the most feasible magnetically confined fusion device. Tearing mode instabilities have great influence on the fusion reaction thus worth stuying. 
 
-In this research, in order to simulate the evolution process of tokamak plasma instability numerically, we reviewed different formulations of the MHD equations, selected a suitable type of nonconservative resistive MHD, and developed a parallel solver using hybrid finite difference-Fourier pseudo spectral method in cylindrical coordinates. Using our solver, we simulated the $(m,n)=(2,1)$ resistive tearing mode instability, and checked the results against those obtained from the CLT and M3D-C1 code with researchers from Institute of Plasma Physics, Chinese Academy of Science. Our solver exhibits satisfactory performance in conserving numerical divergence of the magnetic field, fitting the theoretical relation between logrithmic growth rate of kinetic energy and resistivity, revealing the tearing mode structure independent of initial peturbation at the linear stage, and reaching the final saturation stage. 
+In this research, in order to simulate the evolution process of tokamak plasma instability numerically, we reviewed different formulations of the MHD equations, selected a suitable type of nonconservative resistive MHD, and developed a parallel solver using hybrid finite difference-Fourier pseudo spectral method in cylindrical coordinates. Using our solver, we simulated the (m,n)=(2,1) resistive tearing mode instability, and checked the results against those obtained from the CLT and M3D-C1 code with researchers from Institute of Plasma Physics, Chinese Academy of Science. Our solver exhibits satisfactory performance in conserving numerical divergence of the magnetic field, fitting the theoretical relation between logrithmic growth rate of kinetic energy and resistivity, revealing the tearing mode structure independent of initial peturbation at the linear stage, and reaching the final saturation stage. 
 
-Below is a plot of $\widetilde{E}_{\varphi}$ (the perturbation on the toroidal component of the electric field) at time $T=7000$, which reveals the resistive tearing mode structure and should be independent of the initial perturbation, and a log-plot of kinetic energy evolution under different resistivity. Our code reveals the linear growing stage, mode structure and the logrithmic growth rate very well. 
+Below is a plot of the perturbation on the toroidal component of the electric field at time T=7000, which reveals the resistive tearing mode structure and should be independent of the initial perturbation, and a log-plot of kinetic energy evolution under different resistivity. Our code reveals the linear growing stage, mode structure and the logrithmic growth rate very well. 
 
 <center>
     <img style = "
@@ -136,7 +136,7 @@ We virtually discussed this research with [Prof. Jing-Mei QIU](https://jingmeiqi
 </center>
 
 
-## 3. Discontinuous Galerkin Methods for the $p$-Laplace Equation 
+## 3. Discontinuous Galerkin Methods for the p-Laplace Equation 
 
 *Bachelor's Thesis at USTC* 
 
@@ -146,7 +146,7 @@ Supervisor: [Prof. Yan XU](https://faculty.ustc.edu.cn/yxu "Prof. Yan XU's homep
 
 Defense: 06/07/2023 
 
-We study the high-order local discontinuous Galerkin (LDG) method for the \(p\)-Laplace equation. We reformulate our spatial discretization as an equivalent convex minimization problem and use a preconditioned gradient descent method as the nonlinear solver. For the first time, a weighted preconditioner that provides \(hk\)-independent convergence is applied in the LDG setting. For polynomial order \(k \geqslant 1\), we rigorously establish the solvability of our scheme and provide a priori error estimates in a mesh-dependent energy norm. Our error estimates are under a different and non-equivalent distance from existing LDG results. For arbitrarily high-order polynomials under the assumption that the exact solution has enough regularity, the error estimates demonstrate the potential for high-order accuracy. Our numerical results exhibit the desired convergence speed facilitated by the preconditioner, and we observe best convergence rates in gradient variables in alignment with linear LDG, and optimal rates in the primal variable when \(1 < p \leqslant 2\). 
+We study the high-order local discontinuous Galerkin (LDG) method for the p-Laplace equation. We reformulate our spatial discretization as an equivalent convex minimization problem and use a preconditioned gradient descent method as the nonlinear solver. For the first time, a weighted preconditioner that provides hk-independent convergence is applied in the LDG setting. For polynomial order k ≥ 1, we rigorously establish the solvability of our scheme and provide a priori error estimates in a mesh-dependent energy norm. Our error estimates are under a different and non-equivalent distance from existing LDG results. For arbitrarily high-order polynomials under the assumption that the exact solution has enough regularity, the error estimates demonstrate the potential for high-order accuracy. Our numerical results exhibit the desired convergence speed facilitated by the preconditioner, and we observe best convergence rates in gradient variables in alignment with linear LDG, and optimal rates in the primal variable when 1 < p ≤ 2. 
 
 arXiv preprint (submitted): [here](https://arxiv.org/pdf/2311.09119.pdf "arXiv link"){:target="_blank"} 
 
@@ -170,6 +170,6 @@ arXiv preprint (submitted): [here](https://arxiv.org/pdf/2311.09119.pdf "arXiv l
 | Poisson | quadratic FEM | 2D polygon | triangular | Matlab |
 | Poisson | LDG | 1D interval | arbitary Cartesian | Matlab |
 | Poisson | HDG | 1D interval | arbitary Cartesian | Matlab |
-| Poisson | arbitary-degree MD-LDG (good results up to $k=9$) | 2D polygon | triangular | Matlab |
-| $p$-Laplace | arbitary-degree LDG | 1D interval | arbitary Cartesian | Matlab |
-| $p$-Laplace | arbitary-degree LDG | 2D polygon | triangular | Matlab |
+| Poisson | arbitary-degree MD-LDG (good results up to k=9) | 2D polygon | triangular | Matlab |
+| p-Laplace | arbitary-degree LDG | 1D interval | arbitary Cartesian | Matlab |
+| p-Laplace | arbitary-degree LDG | 2D polygon | triangular | Matlab |
