@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: archive # should be wide
 title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true

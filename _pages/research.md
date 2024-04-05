@@ -1,5 +1,5 @@
 ---
-layout: archive
+# layout: archive # too wide
 title: "Yue Wu's Research Page"
 permalink: /research/
 author_profile: true

@@ -1,5 +1,5 @@
 ---
-layout: archive
+# layout: archive # too wide
 permalink: /
 title: "Welcome to Yue Wu's homepage!"
 author_profile: true

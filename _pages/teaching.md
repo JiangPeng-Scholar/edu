@@ -1,5 +1,5 @@
 ---
-layout: archive
+# layout: archive # too wide
 title: "Teaching Experiences"
 permalink: /teaching/
 author_profile: true

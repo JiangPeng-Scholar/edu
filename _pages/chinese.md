@@ -1,5 +1,5 @@
 ---
-layout: archive
+# layout: archive # too wide
 title: "欢迎来到吴越的个人主页！"
 permalink: /zh_cn/
 author_profile: true

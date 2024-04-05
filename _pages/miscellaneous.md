@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: archive # should be wide
 title: "Miscellaneous"
 permalink: /miscellaneous/
 author_profile: true
