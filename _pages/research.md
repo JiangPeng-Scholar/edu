@@ -1,34 +1,39 @@
 ---
 layout: archive
-title: ""
+title: "Yue Wu's Research Page"
 permalink: /research/
 author_profile: true
 ---
 
+<!-- 放关于研究的详细内容 -->
+{% include toc %}
+---
 
-# Research Interets
+# Research Interets 
 
 1. High-order numerical methods for PDEs: 
-   - Discontinuous Galerkin finite element methods 
+   - Finite element methods 
+   - Discontinuous Galerkin methods 
    - Spectral methods 
    - Finite difference / volume methods 
 2. Scientific computing: 
    - Parallel numerical solvers 
+   - Iterative methods 
 
 ---
 
 
-# Projects
+# Research Experiences 
 
 ## 1. Numerical Simulation of Plasma Equilibrium Evolution in Nuclear Fusion 
 
 *Undergraduate Research Program at USTC* 
 
-Supervisor: [Prof. Mengping ZHANG](https://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=860){:target="_blank"} 
+Supervisor: [Prof. Mengping ZHANG](https://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=860 "Prof. Mengping ZHANG's homepage"){:target="_blank"} 
 
-July 2021 --- May 2022, USTC 
+07/2021 ~ 05/2022, USTC 
 
-Defense: Dec. 30, 2022 
+Defense: 12/30/2022 
 
 The controlled nuclear fusion is one of the most prospective solution to the energy crisis and environmental problems. The tokamak has been widely investigated as the most feasible magnetically confined fusion device. Tearing mode instabilities have great influence on the fusion reaction thus worth stuying. 
 
@@ -59,20 +64,22 @@ Below is a plot of $\widetilde{E}_{\varphi}$ (the perturbation on the toroidal c
     <p> </p>
 </center>
 
-We virtually discussed this research with [Prof. Chi-Wang SHU](https://www.dam.brown.edu/people/shu/){:target="_blank"}. Thanks for his discussion and advice.
+We virtually discussed this research with [Prof. Chi-Wang SHU](https://www.dam.brown.edu/people/shu/ "Prof. Chi-Wang SHU' homepage"){:target="_blank"}. Thanks for his discussion and advice. 
 
 Research report (in Chinese) preview: [here](../files/undergraduate-research-program/main.pdf){:target="_blank"}; Defense PPT (in Chinese) preview: [here](../files/undergraduate-research-program/PPT.pdf){:target="_blank"}. 
+
+*[MHD]: Magnetohydrodynamics 
 
 
 ## 2. Positivity-Preserving Conservative Low-Rank Methods for Vlasov Dynamics 
 
-Supervisor: [Prof. Xiangxiong ZHANG](https://www.math.purdue.edu/~zhan1966/){:target="_blank"} 
+Supervisor: [Prof. Xiangxiong ZHANG](https://www.math.purdue.edu/~zhan1966/ "Prof. Xiangxiong ZHANG's homepage"){:target="_blank"} 
 
-June 2022 --- August 2022, Purdue University (online) 
+06/2022 ~ 08/2022, Purdue University (remote) 
 
 The high-dimensionality of Vlasov dynamics makes it expenive to solve by traditional numerical methods. Utilizing the low-rank structure of the solution, people have developed cost-efficient methods using low-rank matrix/tensor approximation. However, very often a low-rank approximation of a given non-negative matrix (which corresponds to the solution) can have negative elements which results in non-physical solutions. In this research, our goal is to develop a cost-efficient positivity-preserving conservative low-rank method to solve this problem. We designed two algorithms, one is the tangent-space accelerated alternating projection algorithm, and the other is the nuclear norm optimization, both with macroscopic quantities conservation. 
 
-We virtually discussed this research with [Prof. Jing-Mei QIU](https://jingmeiqiu.github.io/){:target="_blank"}. Thanks for her discussion and data. 
+We virtually discussed this research with [Prof. Jing-Mei QIU](https://jingmeiqiu.github.io/ "Prof. Jing-Mei QIU's homepage"){:target="_blank"}. Thanks for her discussion and data. 
 
 <center>
     <img style = "
@@ -131,36 +138,17 @@ We virtually discussed this research with [Prof. Jing-Mei QIU](https://jingmeiqi
 
 ## 3. Discontinuous Galerkin Methods for the $p$-Laplace Equation 
 
-*Bachelor's Thesis Project at USTC* 
+*Bachelor's Thesis at USTC* 
 
-Supervisor: [Prof. Yan XU](https://faculty.ustc.edu.cn/yxu){:target="_blank"} 
+Supervisor: [Prof. Yan XU](https://faculty.ustc.edu.cn/yxu "Prof. Yan XU's homepage"){:target="_blank"} 
 
-Dec 2022 --- June 2023, USTC 
+12/2022 ~ 06/2023, USTC 
 
-The intrinsic singularity or degeneration of the $p$-Laplace equation, as a nonlinear elliptic equation, brings great trouble to usual LDG methods based on the weak formulation. As an alternative, the LDG method built upon the minimization formulation, which is equivalent to the primal formulation, proves to be a practical solution due to its provable convergence and numerical stability. In order to solve the resulting discrete minimization problem, we employed a preconditioner, which can be explained as either a regularized Newton-Raphson method or an first-order explicit gradient flow method, to make the convergence behavior both $hk$-independent. Besides, we provided a priori error estimates through the minimization formulation, which is, however, not optimal. 
+Defense: 06/07/2023 
 
-<center>
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/bachelor thesis/error_u.png" 
-        width = "40%">
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/bachelor thesis/error_q.png" 
-        width = "40%">
-    <br>
-    <div style = "
-        color: orange;
-        border-bottom: 1px solid #d9d9d9;
-        display: inline-block;
-        color: #999;
-        padding: 2px;">
-        convergence using up to 9-th order polynomials on 2D unstructured triangular mesh, Poisson equation (errors for the potential and the electric field respectively)
-    </div>
-    <p> </p>
-</center>
+We study the high-order local discontinuous Galerkin (LDG) method for the \(p\)-Laplace equation. We reformulate our spatial discretization as an equivalent convex minimization problem and use a preconditioned gradient descent method as the nonlinear solver. For the first time, a weighted preconditioner that provides \(hk\)-independent convergence is applied in the LDG setting. For polynomial order \(k \geqslant 1\), we rigorously establish the solvability of our scheme and provide a priori error estimates in a mesh-dependent energy norm. Our error estimates are under a different and non-equivalent distance from existing LDG results. For arbitrarily high-order polynomials under the assumption that the exact solution has enough regularity, the error estimates demonstrate the potential for high-order accuracy. Our numerical results exhibit the desired convergence speed facilitated by the preconditioner, and we observe best convergence rates in gradient variables in alignment with linear LDG, and optimal rates in the primal variable when \(1 < p \leqslant 2\). 
+
+arXiv preprint (submitted): [here](https://arxiv.org/pdf/2311.09119.pdf "arXiv link"){:target="_blank"} 
 
 
 ---
@@ -179,7 +167,7 @@ The intrinsic singularity or degeneration of the $p$-Laplace equation, as a nonl
 | compressible RMHD | 3-order FD-HJ + Fourier | 3D toroidal with circular section | uniform Cartesian (embedded) | Fortran + OpenMP + MPI |
 | compressible MHD | arbitary-degree DG (locally div-free) | 2D ractangle | arbitary Cartesian | Fortran + OpenMP + MPI |
 | Poisson | arbitary-degree FEM | 1D interval | arbitary Cartesian | Matlab |
-| Poisson | 1,2-degree FEM | 2D polygon | triangular | Matlab |
+| Poisson | quadratic FEM | 2D polygon | triangular | Matlab |
 | Poisson | LDG | 1D interval | arbitary Cartesian | Matlab |
 | Poisson | HDG | 1D interval | arbitary Cartesian | Matlab |
 | Poisson | arbitary-degree MD-LDG (good results up to $k=9$) | 2D polygon | triangular | Matlab |

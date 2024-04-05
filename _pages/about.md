@@ -5,15 +5,16 @@ title: "Welcome to Yue Wu's homepage!"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
-  - /en_us
+  - /en_us/
 ---
 
-[//]: 主页上只展示客观成果，主观的东西和需要展开讲的东西放到其他页面 
+<!-- 主页上只展示客观成果，主观的东西和需要展开讲的东西放到其他页面 -->
+{% include toc %}
+---
 
 # About
 
-**Yue Wu** (吴越) is a 1<sup>st</sup>-year Ph.D. student at Brown University. His research interests include Numerical Analysis and Scientific Computing. 
+**Yue Wu** is a 1<sup>st</sup>-year Ph.D. student at Brown University. His research interests include Numerical Analysis and Scientific Computing. 
 
 Outside of his academic life, he is an aviation enthusiast and enjoys road cycling and hiking. He grew up in Wuxi, a beautiful city in east China. 
 
@@ -39,7 +40,7 @@ Please find his CV [here](../files/cv.pdf "Yue Wu's CV"){:target="_blank"}.
 
 - 06/2023: USTC Outstanding Undergraduate Award 
 - 06/2023: "Chia-Chiao Lin" Gold Medal (Top 1 in China), the 14<sup>th</sup> S.-T. Yau College Student Math Contest, Applied and Computational Math track 
-- 06/2023: Team Silver Medal, the 14<sup>th</sup> S.-T. Yau College Student Math Contest 
+- 06/2023: Team Silver Medal, the 14<sup>th</sup> S.-T. Yau College Student Math Contest, team competition track 
 - 06/2023: Excellence Prize, the 14<sup>th</sup> S.-T. Yau College Student Math Contest, Analysis and PDEs track 
 - 10/2022: Gold Prize, USTC Outstanding Student Scholarship 
 - 08/2022: Excellence Prize, the 13<sup>th</sup> S.-T. Yau College Student Math Contest, Analysis and PDEs track 
@@ -51,14 +52,19 @@ Please find his CV [here](../files/cv.pdf "Yue Wu's CV"){:target="_blank"}.
 
 # Teaching Experiences 
 
-- Spring 2022, USTC: Undergraduate Teaching Assistant, Computational Methods B (Instructor: [Prof. Jingrun CHEN](https://faculty.ustc.edu.cn/chenjingrun/en/index/601834/list/index.htm "Prof. Jingrun CHEN's homepage"){:target="_blank"}). 
+- Spring 2022 at USTC: Undergraduate Teaching Assistant, Computational Methods B (Instructor: [Prof. Jingrun CHEN](https://faculty.ustc.edu.cn/chenjingrun/en/index/601834/list/index.htm "Prof. Jingrun CHEN's homepage"){:target="_blank"}). 
 
 
 # Skills
 
-- Programming languages: C/C++, Matlab, Fortran 95/2003, Python, $\LaTeX$ 
+- Programming languages: C/C++, Matlab, Fortran 95/2003, Python, \(\LaTeX\) 
 - Parallel computing: MPI, OpenMP, Coarray Fortran 
 
+
+<!-- Explanation for abbreviations -->
+
+*[USTC]: University of Science and Technology of China 
+*[SCGY]: School of the Gifted Young 
 
 ---
 

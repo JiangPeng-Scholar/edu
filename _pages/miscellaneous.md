@@ -4,12 +4,14 @@ title: "Miscellaneous"
 permalink: /miscellaneous/
 author_profile: true
 redirect_from: 
-  - /ms/
+  - /misc/
 ---
 
+<!-- 放一些杂项 -->
 
-Links
-===
+---
+
+# Links
 
 - USTC: [en.ustc.edu.cn](https://en.ustc.edu.cn){:target="_blank"} 
 - SGY, USTC: [en.scgy.ustc.edu.cn](https://en.scgy.ustc.edu.cn){:target="_blank"} 
@@ -24,8 +26,7 @@ Links
 - [How to use `ifort` + `IntelMPI`/`coarray` on Windows or Linux clusters](https://blog.csdn.net/PilotJohnWu/article/details/121064266){:target="_blank"} 
 
 
-Gallery for My Hometown
-===
+# Photos of My Hometown
 
 <center>
     <img style = "
