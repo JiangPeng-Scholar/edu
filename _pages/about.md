@@ -23,12 +23,12 @@ Please find his CV [here](../files/cv.pdf "Yue Wu's CV"){:target="_blank"}.
 
 # 🎓Education 
 
-- 09/2023 ~ Present: <img src="../files/Brown_University_Logo_full.png" style="height: 1em"> [Division of Applied Mathematics](https://appliedmath.brown.edu/ "APMA, Brown"){:target="_blank"}, [Brown University](https://www.brown.edu/ "Brown"){:target="_blank"} 
+- 09/2023 ~ Present: <img src="../files/Brown_University_Logo_full.png" style="height: 1.1em"> [Division of Applied Mathematics](https://appliedmath.brown.edu/ "APMA, Brown"){:target="_blank"}, [Brown University](https://www.brown.edu/ "Brown"){:target="_blank"} 
     - Ph.D. Student in *Applied Mathematics*
-- 09/2019 ~ 06/2023: <img src="../files/USTC-logo.png" style="height: 1em"> [School of the Gifted Young](https://en.scgy.ustc.edu.cn "SCGY, USTC"){:target="_blank"}, [University of Science and Technology of China](https://en.ustc.edu.cn "USTC"){:target="_blank"} 
+- 09/2019 ~ 06/2023: <img src="../files/USTC-logo.png" style="height: 1.1em"> [School of the Gifted Young](https://en.scgy.ustc.edu.cn "SCGY, USTC"){:target="_blank"}, [University of Science and Technology of China](https://en.ustc.edu.cn "USTC"){:target="_blank"} 
     - B.Sc. in *Information & Computational Science* 
     - GPA: 3.96/4.30 (91.77/100.00), rank 1<sup>st</sup>/40 in the major 
-- 09/2017 ~ 06/2019: <img src="../files/Wuxi_No.1_High_School_Badge.jpg" style="height: 1em"> Wuxi No. 1 High School 
+- 09/2017 ~ 06/2019: <img src="../files/Wuxi_No.1_High_School_Badge.jpg" style="height: 1.1em"> Wuxi No. 1 High School 
 
 
 # 📃Preprints 
