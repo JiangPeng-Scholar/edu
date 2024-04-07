@@ -3,12 +3,10 @@
 title: "欢迎来到吴越的个人主页！"
 permalink: /zh_cn/
 author_profile: true
-toc: true
-toc_sticky: true
 ---
 
 <!-- 中文个人主页 -->
-<!--{% include toc %} -->
+{% include toc %}
 ---
 
 # 个人简介
