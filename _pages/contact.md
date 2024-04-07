@@ -6,17 +6,17 @@ author_profile: true
 ---
 
 
-**Email**: \
+📧**Email**: \
 Yue_Wu3 [at] Brown [dot] edu 
 
 
-**Office**: \
+🏢**Office**: \
 Center for Computation and Visualization, Room 106 \
 180 George Street \
 Providence, RI 02906, USA 
 
 
-**Mail**: \
+📫**Mail**: \
 Yue Wu \
 Division of Applied Mathematics \
 Brown University, Box F \

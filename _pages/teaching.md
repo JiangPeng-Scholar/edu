@@ -8,7 +8,7 @@ author_profile: true
 {% include toc %}
 ---
 
-# At USTC 
+# 🙋‍♂️At USTC 
 
 Spring 2022 at USTC: Undergraduate Teaching Assistant, Computational Methods B 
 

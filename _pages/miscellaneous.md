@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 
-# Links
+# 💾Links
 
 - USTC: [en.ustc.edu.cn](https://en.ustc.edu.cn){:target="_blank"} 
 - SGY, USTC: [en.scgy.ustc.edu.cn](https://en.scgy.ustc.edu.cn){:target="_blank"} 
@@ -26,7 +26,7 @@ redirect_from:
 - [How to use `ifort` + `IntelMPI`/`coarray` on Windows or Linux clusters](https://blog.csdn.net/PilotJohnWu/article/details/121064266){:target="_blank"} 
 
 
-# Photos of My Hometown
+# 📷Photos of My Hometown
 
 <center>
     <img style = "

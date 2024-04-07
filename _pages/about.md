@@ -12,31 +12,31 @@ redirect_from:
 {% include toc %}
 ---
 
-# About
+# 👨‍🎓About
 
-**Yue Wu** is a 1<sup>st</sup>-year Ph.D. student at Brown University. His research interests include Numerical Analysis and Scientific Computing. 
+**Yue Wu** is a 1<sup>st</sup>-year Ph.D. student in the Division of Applied Mathematics at Brown University. His research interests include Numerical Analysis and Scientific Computing. 
 
 Outside of his academic life, he is an aviation enthusiast and enjoys road cycling and hiking. He grew up in Wuxi, a beautiful city in east China. 
 
 Please find his CV [here](../files/cv.pdf "Yue Wu's CV"){:target="_blank"}. 
 
 
-# Education 
+# 🎓Education 
 
-- 09/2023 ~ Present: [Division of Applied Mathematics](https://appliedmath.brown.edu/ "APMA, Brown"){:target="_blank"}, [Brown University](https://www.brown.edu/ "Brown"){:target="_blank"} 
+- 09/2023 ~ Present: <img src="../files/Brown_University_Logo_full.png" style="height: 1em"> [Division of Applied Mathematics](https://appliedmath.brown.edu/ "APMA, Brown"){:target="_blank"}, [Brown University](https://www.brown.edu/ "Brown"){:target="_blank"} 
     - Ph.D. Student in *Applied Mathematics*
-- 09/2019 ~ 06/2023: [School of the Gifted Young](https://en.scgy.ustc.edu.cn "SCGY, USTC"){:target="_blank"}, [University of Science and Technology of China](https://en.ustc.edu.cn "USTC"){:target="_blank"} 
+- 09/2019 ~ 06/2023: <img src="../files/USTC-logo.png" style="height: 1em"> [School of the Gifted Young](https://en.scgy.ustc.edu.cn "SCGY, USTC"){:target="_blank"}, [University of Science and Technology of China](https://en.ustc.edu.cn "USTC"){:target="_blank"} 
     - B.Sc. in *Information & Computational Science* 
     - GPA: 3.96/4.30 (91.77/100.00), rank 1<sup>st</sup>/40 in the major 
-- 09/2017 ~ 06/2019: Wuxi No. 1 High School 
+- 09/2017 ~ 06/2019: <img src="../files/Wuxi_No.1_High_School_Badge.jpg" style="height: 1em"> Wuxi No. 1 High School 
 
 
-# Preprints 
+# 📃Preprints 
 
 - **Yue Wu** and Yan Xu, "A high-order local discontinuous Galerkin method for the *p*-Laplace equation" (special issue in honor of Chi-Wang Shu's 65<sup>th</sup> birthday), submitted to *Beijing Journal of Pure and Applied Mathematics*, Nov. 2023. [arXiv:2311.09119](https://arxiv.org/abs/2311.09119 "arXiv link"){:target="_blank"}. 
 
 
-# Honors and Awards
+# 🏅Honors and Awards
 
 - 06/2023: USTC Outstanding Undergraduate Award 
 - 06/2023: "Chia-Chiao Lin" Gold Medal (Top 1 in China), the 14<sup>th</sup> S.-T. Yau College Student Math Contest, Applied and Computational Math track 
@@ -50,12 +50,12 @@ Please find his CV [here](../files/cv.pdf "Yue Wu's CV"){:target="_blank"}.
 - 09/2019: Third Prize, USTC Freshman Scholarship 
 
 
-# Teaching Experiences 
+# 🙋‍♂️Teaching Experiences 
 
 - Spring 2022 at USTC: Undergraduate Teaching Assistant, Computational Methods B (Instructor: [Prof. Jingrun CHEN](https://faculty.ustc.edu.cn/chenjingrun/en/index/601834/list/index.htm "Prof. Jingrun CHEN's homepage"){:target="_blank"}). 
 
 
-# Skills
+# 🔧Skills
 
 - Programming languages: C/C++, Matlab, Fortran 95/2003, Python, LaTeX 
 - Parallel computing: MPI, OpenMP, Coarray Fortran 

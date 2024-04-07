@@ -9,7 +9,7 @@ author_profile: true
 {% include toc %}
 ---
 
-# 个人简介
+# 👨‍🎓个人简介
 
 **吴越**，男，无锡人。现为布朗大学应用数学系的博士生，于2023年秋季入学。目前的研究方向是数值分析与科学计算，主要内容为偏微分方程的高阶数值方法（有限元、间断有限元、谱元法、有限差分等）。
 
@@ -18,17 +18,22 @@ author_profile: true
 联系方式：[yue_wu3@brown.edu](mailto:yue_wu3@brown.edu "向该邮箱发送邮件") 
 
 
-# 教育背景
+# 🎓教育背景
 
-- 2023年9月 ~ 现今：[布朗大学](https://www.brown.edu/ "布朗大学官网"){:target="_blank"} [应用数学系](https://appliedmath.brown.edu/ "布朗大学应用数学系主页"){:target="_blank"} 
+- 2023年9月 ~ 现今：<img src="../files/Brown_University_Logo_full.png" style="height: 1em"> [布朗大学](https://www.brown.edu/ "布朗大学官网"){:target="_blank"} [应用数学系](https://appliedmath.brown.edu/ "布朗大学应用数学系主页"){:target="_blank"} 
     - 博士研究生 
-- 2019年9月 ~ 2023年6月：[中国科学技术大学](https://www.ustc.edu.cn/ "中国科学技术大学"){:target="_blank"} [少年班学院](https://sgy.ustc.edu.cn/ "中国科学技术大学少年班学院"){:target="_blank"}  
+- 2019年9月 ~ 2023年6月：<img src="../files/USTC-logo.png" style="height: 1em"> [中国科学技术大学](https://www.ustc.edu.cn/ "中国科学技术大学"){:target="_blank"} [少年班学院](https://sgy.ustc.edu.cn/ "中国科学技术大学少年班学院"){:target="_blank"}  
     - 信息与计算科学 理学学士 
     - GPA：3.96/4.30 (91.77/100.00)，专业排名第1/40 
-- 2017年9月 ~ 2019年6月：无锡市第一中学 
+- 2017年9月 ~ 2019年6月：<img src="../files/Wuxi_No.1_High_School_Badge.jpg" style="height: 1em"> 无锡市第一中学 
 
 
-# 获奖情况
+# 📃预印本
+
+- **Yue Wu** and Yan Xu, "A high-order local discontinuous Galerkin method for the *p*-Laplace equation" (special issue in honor of Chi-Wang Shu's 65<sup>th</sup> birthday), submitted to *Beijing Journal of Pure and Applied Mathematics*, Nov. 2023. [arXiv:2311.09119](https://arxiv.org/abs/2311.09119 "arXiv链接"){:target="_blank"}. 
+
+
+# 🏅获奖情况
 
 - 2023年6月：中国科大优秀毕业生 
 - 2023年6月：第十四届丘成桐大学生数学竞赛 应用与计算数学方向 “林家翘”金奖（全国第一） 
@@ -43,7 +48,7 @@ author_profile: true
 - 2018年10月：全国高中数学联赛（江苏省）赛区一等奖 
 
 
-# 研究经历
+# 💻研究经历
 
 - 2021年7月 ~ 2022年5月于中国科大：大学生研究计划 
     - 题目：核聚变中磁流体平衡态演化的数值模拟 
@@ -61,18 +66,18 @@ author_profile: true
     - 成果：[arXiv 预印本](https://arxiv.org/abs/2311.09119 "arXiv 预印本"){:target="_blank"} 
 
 
-# 教学经历
+# 🙋‍♂️教学经历
 
 - 2022年春学期于中国科大：计算方法B 助教 （授课教师：[陈景润 教授](https://faculty.ustc.edu.cn/chenjingrun/en/index/601834/list/index.htm "陈景润教授的个人主页"){:target="_blank"}）
 
 
-# 专业技能
+# 🔧专业技能
 
 - 编程语言：C/C++, Matlab, Fortran 95/2003, Python, LaTeX 
 - 并行计算：MPI, OpenMP, Coarray Fortran 
 
 
-# 课外活动
+# ⏳课外活动
 
 - 2022年3月 ~ 2023年6月：中国科大少年班学院数学专业3班 班长 
 - 2021年4月：首届中国大学生室内自行车云上挑战赛 定台混合团体15公里接力赛 第八名 
@@ -80,7 +85,7 @@ author_profile: true
 - 2019年9月 ~ 2023年6月：中国科大自行车协会 公路车竞速队队员 
 
 
-# 文件分享
+# 📁文件分享
 
 - 中国科大 数学分析B2 课程笔记（含作业题和历年期末试题解答） [文件](../files/calculus.pdf "中国科大 数学分析B2 课程笔记（含作业题和历年期末试题解答）"){:target="_blank"} 
 - 中国科大 微分方程I（现微分方程引论）课程笔记 [文件](../files/note1.pdf "中国科大 微分方程I（现微分方程引论）课程笔记"){:target="_blank"} 
