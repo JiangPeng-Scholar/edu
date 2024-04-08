@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Yue Wu (吴越)"
 description              : &description "Ph.D. Student"
 url                      : https://yuewu2002.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "https://appliedmath.brown.edu/people/yue-wu" # the subpath of your site, e.g. "/blog"
 repository               : "YueWu2002/YueWu2002.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
