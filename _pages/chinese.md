@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <!-- 中文个人主页 -->
-{% include toc %}
+<!-- {% include toc %} -->
 ---
 
 # 👨‍🎓个人简介
