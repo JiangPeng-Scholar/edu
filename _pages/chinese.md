@@ -22,7 +22,7 @@ author_profile: true
 
 - 2023年9月 ~ 现今：<img src="../files/Brown_University_Logo_full.png" style="height: 1.1em"> [布朗大学](https://www.brown.edu/ "布朗大学官网"){:target="_blank"}，[应用数学系](https://appliedmath.brown.edu/ "布朗大学应用数学系主页"){:target="_blank"} 
     - 博士研究生 
-- 2019年9月 ~ 2023年6月：<img src="../files/USTC-logo.png" style="height: 1.1em"> [中国科学技术大学](https://www.ustc.edu.cn/ "中国科学技术大学"){:target="_blank"}，<img src="../files/School_of_the_Gifted_Young.jpg" style="height: 1.1em">[少年班学院](https://sgy.ustc.edu.cn/ "中国科学技术大学少年班学院"){:target="_blank"}  
+- 2019年9月 ~ 2023年6月：<img src="../files/USTC-logo.png" style="height: 1.1em"> [中国科学技术大学](https://www.ustc.edu.cn/ "中国科学技术大学"){:target="_blank"}，<img src="../files/School_of_the_Gifted_Young.jpg" style="height: 1.1em"> [少年班学院](https://sgy.ustc.edu.cn/ "中国科学技术大学少年班学院"){:target="_blank"} 
     - 信息与计算科学 理学学士 
     - GPA：3.96/4.30 (91.77/100.00)，专业排名第1/40 
 - 2017年9月 ~ 2019年6月：<img src="../files/Wuxi_No.1_High_School_Badge.jpg" style="height: 1.1em"> 无锡市第一中学 
