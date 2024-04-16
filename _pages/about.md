@@ -57,8 +57,9 @@ Please find his CV [here](../files/cv.pdf "Yue Wu's CV"){:target="_blank"}.
 
 # 🔧Skills
 
-- Programming languages: C/C++, Matlab, Fortran 95/2003, Python, LaTeX 
+- Programming: C/C++, Matlab, Fortran 95/2003, Python, LaTeX 
 - Parallel computing: MPI, OpenMP, Coarray Fortran 
+- Languages: (Mandarin) Chinese, English 
 
 
 <!-- Explanation for abbreviations -->
@@ -67,6 +68,8 @@ Please find his CV [here](../files/cv.pdf "Yue Wu's CV"){:target="_blank"}.
 *[SCGY]: School of the Gifted Young 
 
 ---
+
+# 📷Gallery
 
 <center>
     <img style = "

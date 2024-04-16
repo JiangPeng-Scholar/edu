@@ -75,6 +75,7 @@ author_profile: true
 
 - 编程语言：C/C++, Matlab, Fortran 95/2003, Python, LaTeX 
 - 并行计算：MPI, OpenMP, Coarray Fortran 
+- 工作语言：普通话，英语 
 
 
 # ⏳课外活动
@@ -94,6 +95,8 @@ author_profile: true
 
 
 ---
+
+# 📷相册
 
 <center>
     <img style = "
