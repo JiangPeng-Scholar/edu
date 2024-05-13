@@ -70,6 +70,18 @@ Please find his CV [here](../files/cv.pdf "Yue Wu's CV"){:target="_blank"}.
 
 ---
 
+# 📫 Contact
+
+<address>
+Yue Wu <br />
+Division of Applied Mathematics <br />
+Brown University <br />
+Box F <br />
+Providence, RI 02912-9106 
+</address>
+
+---
+
 # 📷Gallery
 
 <center>
@@ -88,7 +100,7 @@ Please find his CV [here](../files/cv.pdf "Yue Wu's CV"){:target="_blank"}.
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/pictures/me-5.jpg" 
         width = "30%">
-    <br>
+    <br />
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 

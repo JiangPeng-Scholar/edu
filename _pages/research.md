@@ -52,7 +52,7 @@ Below is a plot of the perturbation on the toroidal component of the electric fi
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/undergraduate-research-program/energy.png" 
         width = "50%">
-    <br>
+    <br />
     <div style = "
         color: orange;
         border-bottom: 1px solid #d9d9d9;
@@ -87,7 +87,7 @@ We virtually discussed this research with [Prof. Jing-Mei QIU](https://jingmeiqi
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/summer-research/1.png" 
         width = "90%">
-    <br>
+    <br />
     <div style = "
         color: orange;
         border-bottom: 1px solid #d9d9d9;
@@ -105,7 +105,7 @@ We virtually discussed this research with [Prof. Jing-Mei QIU](https://jingmeiqi
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/summer-research/2.png" 
         width = "90%">
-    <br>
+    <br />
     <div style = "
         color: orange;
         border-bottom: 1px solid #d9d9d9;
@@ -123,7 +123,7 @@ We virtually discussed this research with [Prof. Jing-Mei QIU](https://jingmeiqi
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/summer-research/3.png" 
         width = "90%">
-    <br>
+    <br />
     <div style = "
         color: orange;
         border-bottom: 1px solid #d9d9d9;

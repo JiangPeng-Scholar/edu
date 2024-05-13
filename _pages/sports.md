@@ -17,7 +17,7 @@ author_profile: true
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/riding/1.jpg" 
         width = "60%">
-    <br>
+    <br />
     <div style = "
         color: orange;
         border-bottom: 1px solid #d9d9d9;
@@ -35,7 +35,7 @@ author_profile: true
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/riding/8.jpg" 
         width = "60%">
-    <br>
+    <br />
     <div style = "
         color: orange;
         border-bottom: 1px solid #d9d9d9;
@@ -53,7 +53,7 @@ author_profile: true
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/riding/10.jpg" 
         width = "60%">
-    <br>
+    <br />
     <div style = "
         color: orange;
         border-bottom: 1px solid #d9d9d9;
@@ -71,7 +71,7 @@ author_profile: true
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/riding/6.jpg" 
         width = "60%">
-    <br>
+    <br />
     <div style = "
         color: orange;
         border-bottom: 1px solid #d9d9d9;
@@ -89,7 +89,7 @@ author_profile: true
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/riding/9.jpg" 
         width = "60%">
-    <br>
+    <br />
     <div style = "
         color: orange;
         border-bottom: 1px solid #d9d9d9;
@@ -107,7 +107,7 @@ author_profile: true
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/riding/2.jpg" 
         width = "60%">
-    <br>
+    <br />
     <div style = "
         color: orange;
         border-bottom: 1px solid #d9d9d9;
@@ -125,7 +125,7 @@ author_profile: true
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/riding/3.jpg" 
         width = "60%">
-    <br>
+    <br />
     <div style = "
         color: orange;
         border-bottom: 1px solid #d9d9d9;
@@ -143,7 +143,7 @@ author_profile: true
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/riding/4.jpg" 
         width = "60%">
-    <br>
+    <br />
     <div style = "
         color: orange;
         border-bottom: 1px solid #d9d9d9;
@@ -161,7 +161,7 @@ author_profile: true
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/riding/7.jpg" 
         width = "60%">
-    <br>
+    <br />
     <div style = "
         color: orange;
         border-bottom: 1px solid #d9d9d9;
@@ -179,7 +179,7 @@ author_profile: true
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/riding/11.jpg" 
         width = "60%">
-    <br>
+    <br />
     <div style = "
         color: orange;
         border-bottom: 1px solid #d9d9d9;
@@ -202,7 +202,7 @@ author_profile: true
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/riding/16.jpg" 
         width = "49%">
-    <br>
+    <br />
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
@@ -213,7 +213,7 @@ author_profile: true
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/riding/17.jpg" 
         width = "49%">
-    <br>
+    <br />
     <div style = "
         color: orange;
         border-bottom: 1px solid #d9d9d9;
@@ -236,7 +236,7 @@ author_profile: true
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/riding/14.jpg" 
         width = "49%">
-    <br>
+    <br />
     <div style = "
         color: orange;
         border-bottom: 1px solid #d9d9d9;
