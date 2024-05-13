@@ -75,9 +75,10 @@ Please find his CV [here](../files/cv.pdf "Yue Wu's CV"){:target="_blank"}.
 <address>
 Yue Wu <br />
 Division of Applied Mathematics <br />
-Brown University <br />
-Box F <br />
-Providence, RI 02912-9106 
+182 George St <br />
+Box F, Brown University <br />
+Providence, RI 02912-9106 <br />
+United States 
 </address>
 
 ---
