@@ -93,6 +93,18 @@ author_profile: true
 - 中国科大 有限元方法 课程作业 [HW1](../files/FEM/HW1.pdf "中国科大 有限元方法 HW1"){:target="_blank"} (一维线性单元)，[HW2](../files/FEM/HW2.pdf "中国科大 有限元方法 HW2"){:target="_blank"} (一维二次单元)，[HW3](../files/FEM/HW3.pdf "中国科大 有限元方法 HW3"){:target="_blank"} (一维纯Neumann边界)，[HW4](../files/FEM/HW4.pdf "中国科大 有限元方法 HW4"){:target="_blank"} (二维线性单元)，[HW5](../files/FEM/HW5.pdf "中国科大 有限元方法 HW5"){:target="_blank"} (二维二次单元) 
 - 有限差分 WENO 方法笔记 [文件](../files/demo1.pdf "有限差分 WENO 方法笔记"){:target="_blank"} 
 
+---
+
+# 📫 地址
+
+<address>
+Yue Wu <br />
+Division of Applied Mathematics <br />
+Brown University <br />
+Box F <br />
+Providence, RI 02912-9106 <br />
+United States of America 
+</address>
 
 ---
 

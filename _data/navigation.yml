@@ -30,8 +30,8 @@ main:
   #- title: "Guide"
   #  url: /markdown/
 
-  - title: "Contact"
-    url: /contact/
+  #- title: "Contact"
+  # url: /contact/
 
   - title: "中文"
     url: /zh_cn/
