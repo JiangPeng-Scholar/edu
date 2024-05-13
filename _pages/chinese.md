@@ -100,10 +100,10 @@ author_profile: true
 <address>
 Yue Wu <br />
 Division of Applied Mathematics <br />
-Brown University <br />
-Box F <br />
+182 George St <br />
+Box F, Brown University <br />
 Providence, RI 02912-9106 <br />
-United States of America 
+United States 
 </address>
 
 ---
