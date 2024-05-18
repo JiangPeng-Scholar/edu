@@ -16,7 +16,7 @@ redirect_from:
 
 **Yue Wu** is a 1<sup>st</sup>-year Ph.D. student in the Division of Applied Mathematics at Brown University. His research interests include Numerical Analysis and Scientific Computing. 
 
-Outside of his academic life, he is an aviation enthusiast and enjoys road cycling and hiking. He grew up in Wuxi, a beautiful city in east China. 
+Outside of his academic life, he is an aviation enthusiast and enjoys road cycling and hiking. He grew up in [Wuxi](http://en.wuxi.gov.cn/ "Wuxi"){:target="_blank"}, a beautiful city in east China. 
 
 Please find his CV [here](../files/cv.pdf "Yue Wu's CV"){:target="_blank"}. 
 
