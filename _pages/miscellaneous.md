@@ -76,7 +76,7 @@ redirect_from:
         display: inline-block;
         color: #999;
         padding: 2px;">
-        my hometown Wuxi, the pearl of Lake Taihu, a city featuring both modernity and traditional Chinese culture in the Yangtze Delta (photos taken by myself)
+        my hometown [Wuxi](http://en.wuxi.gov.cn/ "Wuxi"){:target="_blank"}, the pearl of the Lake Taihu, a city featuring both modernity and traditional Chinese culture in the Yangtze Delta (photos taken by myself) 
     </div>
     <p> </p>
 </center>
