@@ -9,7 +9,7 @@ author_profile: true
 <!--{% include toc %} -->
 ---
 
-# Research Interets 
+# Research Interests 
 
 1. High-order numerical methods for PDEs: 
    - Finite element methods 
@@ -35,11 +35,11 @@ Supervisor: [Prof. Mengping ZHANG](https://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=860
 
 Defense: 12/30/2022 
 
-The controlled nuclear fusion is one of the most prospective solution to the energy crisis and environmental problems. The tokamak has been widely investigated as the most feasible magnetically confined fusion device. Tearing mode instabilities have great influence on the fusion reaction thus worth stuying. 
+The controlled nuclear fusion is one of the most prospective solution to the energy crisis and environmental problems. The tokamak has been widely investigated as the most feasible magnetically confined fusion device. Tearing mode instabilities have great influence on the fusion reaction thus worth studying. 
 
-In this research, in order to simulate the evolution process of tokamak plasma instability numerically, we reviewed different formulations of the MHD equations, selected a suitable type of nonconservative resistive MHD, and developed a parallel solver using hybrid finite difference-Fourier pseudo spectral method in cylindrical coordinates. Using our solver, we simulated the (m,n)=(2,1) resistive tearing mode instability, and checked the results against those obtained from the CLT and M3D-C1 code with researchers from Institute of Plasma Physics, Chinese Academy of Science. Our solver exhibits satisfactory performance in conserving numerical divergence of the magnetic field, fitting the theoretical relation between logrithmic growth rate of kinetic energy and resistivity, revealing the tearing mode structure independent of initial peturbation at the linear stage, and reaching the final saturation stage. 
+In this research, in order to simulate the evolution process of tokamak plasma instability numerically, we reviewed different formulations of the MHD equations, selected a suitable type of non-conservative resistive MHD, and developed a parallel solver using hybrid finite difference-Fourier pseudo spectral method in cylindrical coordinates. Using our solver, we simulated the (m,n)=(2,1) resistive tearing mode instability, and checked the results against those obtained from the CLT and M3D-C1 code with researchers from Institute of Plasma Physics, Chinese Academy of Science. Our solver exhibits satisfactory performance in conserving numerical divergence of the magnetic field, fitting the theoretical relation between logarithmic growth rate of kinetic energy and resistivity, revealing the tearing mode structure independent of initial perturbation at the linear stage, and reaching the final saturation stage. 
 
-Below is a plot of the perturbation on the toroidal component of the electric field at time T=7000, which reveals the resistive tearing mode structure and should be independent of the initial perturbation, and a log-plot of kinetic energy evolution under different resistivity. Our code reveals the linear growing stage, mode structure and the logrithmic growth rate very well. 
+Below is a plot of the perturbation on the toroidal component of the electric field at time T=7000, which reveals the resistive tearing mode structure and should be independent of the initial perturbation, and a log-plot of kinetic energy evolution under different resistivity. Our code reveals the linear growing stage, mode structure and the logarithmic growth rate very well. 
 
 <center>
     <img style = "
@@ -59,7 +59,7 @@ Below is a plot of the perturbation on the toroidal component of the electric fi
         display: inline-block;
         color: #999;
         padding: 2px;">
-        left: tearing mode sturtcure; right: kinetic energy
+        left: tearing mode structure; right: kinetic energy
     </div>
     <p> </p>
 </center>
@@ -77,7 +77,7 @@ Supervisor: [Prof. Xiangxiong ZHANG](https://www.math.purdue.edu/~zhan1966/ "Pro
 
 06/2022 ~ 08/2022, Purdue University (remote) 
 
-The high-dimensionality of Vlasov dynamics makes it expenive to solve by traditional numerical methods. Utilizing the low-rank structure of the solution, people have developed cost-efficient methods using low-rank matrix/tensor approximation. However, very often a low-rank approximation of a given non-negative matrix (which corresponds to the solution) can have negative elements which results in non-physical solutions. In this research, our goal is to develop a cost-efficient positivity-preserving conservative low-rank method to solve this problem. We designed two algorithms, one is the tangent-space accelerated alternating projection algorithm, and the other is the nuclear norm optimization, both with macroscopic quantities conservation. 
+The high-dimensionality of Vlasov dynamics makes it expensive to solve by traditional numerical methods. Utilizing the low-rank structure of the solution, people have developed cost-efficient methods using low-rank matrix/tensor approximation. However, very often a low-rank approximation of a given non-negative matrix (which corresponds to the solution) can have negative elements which results in non-physical solutions. In this research, our goal is to develop a cost-efficient positivity-preserving conservative low-rank method to solve this problem. We designed two algorithms, one is the tangent-space accelerated alternating projection algorithm, and the other is the nuclear norm optimization, both with macroscopic quantities conservation. 
 
 We virtually discussed this research with [Prof. Jing-Mei QIU](https://jingmeiqiu.github.io/ "Prof. Jing-Mei QIU's homepage"){:target="_blank"}. Thanks for her discussion and data. 
 
@@ -158,18 +158,19 @@ arXiv preprint (submitted): [here](https://arxiv.org/abs/2311.09119 "arXiv link"
 
 | PDE | method | domain | mesh | language |
 | --- | --- | --- | --- | --- |
-| Poisson (Dirichlet) | 2-order FD | 2D ractangle | uniform Cartesian | Matlab |
+| Poisson (Dirichlet) | 2-order FD | 2D rectangle | uniform Cartesian | Matlab |
 | compressible Euler | 5-order FD-WENO | 1D interval | uniform Cartesian | Fortran |
-| compressible Navier-Stokes | 5-order FD-WENO | 2D ractangle | uniform Cartesian | Fortran + OpenMP |
-| Hamilton-Jacobi | 5-order FD-WENO | 2D ractangle | uniform Cartesian | Fortran + OpenMP |
-| compressible RMHD | 5-order FD-HJ | 2D ractangle | uniform Cartesian | Fortran + OpenMP |
+| compressible Navier--Stokes | 5-order FD-WENO | 2D rectangle | uniform Cartesian | Fortran + OpenMP |
+| Hamilton-Jacobi | 5-order FD-WENO | 2D rectangle | uniform Cartesian | Fortran + OpenMP |
+| compressible RMHD | 5-order FD-HJ | 2D rectangle | uniform Cartesian | Fortran + OpenMP |
 | compressible RMHD | 4-order FD-HJ + Fourier | 3D toroidal with rectangular section | uniform Cylindrical | Fortran + OpenMP |
 | compressible RMHD | 3-order FD-HJ + Fourier | 3D toroidal with circular section | uniform Cartesian (embedded) | Fortran + OpenMP + MPI |
-| compressible MHD | arbitary-degree DG (locally div-free) | 2D ractangle | arbitary Cartesian | Fortran + OpenMP + MPI |
-| Poisson | arbitary-degree FEM | 1D interval | arbitary Cartesian | Matlab |
+| compressible MHD | arbitrary-degree DG (locally div-free) | 2D rectangle | arbitrary Cartesian | Fortran + OpenMP + MPI |
+| Poisson | arbitrary-degree FEM | 1D interval | arbitrary Cartesian | Matlab |
 | Poisson | quadratic FEM | 2D polygon | triangular | Matlab |
-| Poisson | LDG | 1D interval | arbitary Cartesian | Matlab |
-| Poisson | HDG | 1D interval | arbitary Cartesian | Matlab |
-| Poisson | arbitary-degree MD-LDG (good results up to k=9) | 2D polygon | triangular | Matlab |
-| p-Laplace | arbitary-degree LDG | 1D interval | arbitary Cartesian | Matlab |
-| p-Laplace | arbitary-degree LDG | 2D polygon | triangular | Matlab |
+| Poisson | LDG | 1D interval | arbitrary Cartesian | Matlab |
+| Poisson | HDG | 1D interval | arbitrary Cartesian | Matlab |
+| Poisson | arbitrary-degree MD-LDG (good results up to k=9) | 2D polygon | triangular | Matlab |
+| p-Laplace | arbitrary-degree LDG | 1D interval | arbitrary Cartesian | Matlab |
+| p-Laplace | arbitrary-degree LDG | 2D polygon | triangular | Matlab |
+| mixed FEM | arbitrary-degree FEM | 2D polygon | triangular | MFEM |
