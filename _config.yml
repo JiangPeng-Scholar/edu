@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jiang Peng’s homepage" # title on the upper-left corner of the page
+title                    : "Jiang Peng homepage" # title on the upper-left corner of the page
 title_separator          : "-"
 name                     : &name "Jiang Peng (江鹏)"
 description              : &description "Ph.D. Student"
