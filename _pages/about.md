@@ -18,9 +18,9 @@ redirect_from:
 
 You can find my CV here: [JiangPeng Curriculum Vitae](../cv.pdf ){:target="_blank"} 
 
-[Email](mailto:mr.jiangpeng@qq.com) /[Github](https://github.com/JiangPeng-Scholar) /[Wechat](../wechat.jpg){:target="_blank"} 
+[Email](mailto:mr.jiangpeng@qq.com) /[Github](https://github.com/JiangPeng-Scholar) /[Wechat](../wechat.jpg ){:target="_blank"} 
 
-Please find his CV [here](../cv.pdf){:target="_blank"}
+Please find his CV [here](../cv.pdf ){:target="_blank"}
 
 
 # Education
