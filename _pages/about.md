@@ -16,9 +16,10 @@ redirect_from:
 
 **Jiang Peng**, an intermediate translator, graduated from [School of Foreign Languages](https://wgyxy.zuel.edu.cn/main.htm) from [Zhongnan University of Economics and Law](https://english.zuel.edu.cn/) with a Bachelor's degree in Financial Management and a Master's degree in Legal and Business Translation. His research areas include corporate financial management, legal and business translation, and colonial and postcolonial literary studies. With extensive experience in both interpreting and translation, Mr. Jiang has provided services for various organizations, including Dongfeng Motor Corporation and the Huangshi Intermediate People's Court. In 2021, he contributed to the translation and publication of Bloodlines, a book by Professor Elleke Boehmer from Oxford University.
 
-You can download Jiang's CV here: ![JiangPeng Curriculum Vitae](../cv.pdf)
+You can download Jiang's CV here: [JiangPeng Curriculum Vitae](../cv.pdf)
 
-[Email](mailto:mr.jiangpeng@qq.com) /[Github](https://github.com/JiangPeng-Scholar) /![Wechat](../wechat.jpg)
+[Email](mailto:mr.jiangpeng@qq.com) / [Github](https://github.com/JiangPeng-Scholar) / ![Wechat](../wechat.jpg)
+
 
 
 
