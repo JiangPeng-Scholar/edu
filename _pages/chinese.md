@@ -1,6 +1,6 @@
 ---
 # layout: archive # too wide
-title: "吴越的个人主页"
+title: "江鹏的个人主页"
 permalink: /zh_cn/
 author_profile: true
 ---
@@ -13,9 +13,9 @@ author_profile: true
 **江鹏**，江鹏, 中级翻译，毕业于中南财经政法大学，本科财务管理专业，研究生法商翻译专业。研究方向：公司财务管理，法商翻译，殖民地和后殖民文学
 究。曾多次为东风汽车集团股份有限公司, 黄石中级人民法院等单位提供口笔译服务， 2021年参与翻译出版牛津大学艾勒克•博埃默教授《bloodlines》著作。
 
-英文简历：点击[此处](../files/cv.pdf "江鹏的简历"){:target="_blank"} 
+英文简历：点击[此处下载](../cv.pdf "江鹏的简历"){:target="_blank"} #点击[此处下载](../files/cv.pdf "江鹏的简历")
 
-联系方式：[Mr.JiangPeng@qq.com](Mr.JiangPeng@qq.com "向该邮箱发送邮件") 
+联系方式：[Mr.JiangPeng@qq.com](mailto:Mr.JiangPeng@qq.com "向该邮箱发送邮件") 
 
 
 # 教育背景

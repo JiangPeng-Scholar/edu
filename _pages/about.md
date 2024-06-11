@@ -19,7 +19,7 @@ You can find my CV here: [JiangPeng's Curriculum Vitae](../files/cv.pdf){:target
 
 [Email](mailto:mr.jiangpeng@qq.com) / [Github](https://github.com/JiangPeng-Scholar) / [Wechat](../images/wechat.jpg).
 
-Please find his CV [here](../files/cv.pdf "Jiang Peng's CV"){:target="_blank"}. 
+Please find his CV [here](../cv.pdf "Jiang Peng's CV"){:target="_blank"}. 
 
 
 # Education
