@@ -11,4 +11,4 @@ author_profile: true
     </embed>
 </object>
 
-My CV is also available to download [here](../files/cv.pdf "Yue Wu's CV"){:target="_blank"}. 
+My CV is also available to download [here](../files/cv.pdf "Jiang Peng's CV"){:target="_blank"}. 
