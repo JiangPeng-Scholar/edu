@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Wu, Yue (吴越)" # title on the upper-left corner of the page
+title                    : "Jiang Peng (江鹏)" # title on the upper-left corner of the page
 title_separator          : "-"
-name                     : &name "Yue Wu (吴越)"
+name                     : &name "Jiang Peng (江鹏)"
 description              : &description "Ph.D. Student"
-url                      : https://yuewu2002.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      :  https://jiangpeng-scholar.github.io/edu/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "YueWu2002/YueWu2002.github.io"
+repository               : "https://github.com/JiangPeng-Scholar/edu"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,13 +22,13 @@ repository               : "YueWu2002/YueWu2002.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Yue Wu"
+  name             : "Jiang Peng"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student"
   location         : "Providence, RI, USA"
   employer         : "Brown University"
   uri              : "https://appliedmath.brown.edu/people/yue-wu" # URL
-  email            : "yue_wu3@brown.edu"
+  email            : "Mr.JiangPeng@qq.com"
 
   # Academic websites
   arxiv            : "https://arxiv.org/a/wu_y_17" # URL - Update with the correct link to your profile
