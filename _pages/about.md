@@ -1,7 +1,7 @@
 ---
 # layout: archive # too wide
 permalink: /
-title: "Welcome to Jiang Peng’s homepage!"
+title: "Welcome to Jiang Peng’s homepage"
 author_profile: true
 redirect_from: 
   - /about/
