@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jiang Peng (江鹏)" # title on the upper-left corner of the page
+title                    : "Jiang Peng’s homepage" # title on the upper-left corner of the page
 title_separator          : "-"
 name                     : &name "Jiang Peng (江鹏)"
 description              : &description "Ph.D. Student"
@@ -22,13 +22,13 @@ repository               : "https://github.com/JiangPeng-Scholar/edu"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Jiang Peng"
+  name             : "Jiang Peng (江鹏)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student"
   location         : "Providence, RI, USA"
   employer         : "Brown University"
-  uri              : "https://appliedmath.brown.edu/people/yue-wu" # URL
-  email            : "Mr.JiangPeng@qq.com"
+  uri              : "https://jiangpeng-scholar.github.io/edu/" # URL
+  email            : ***Mr.JiangPeng@qq.com***
 
   # Academic websites
   arxiv            : "https://arxiv.org/a/wu_y_17" # URL - Update with the correct link to your profile
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "YueWu2002"
+  github           : "JiangPeng-Scholar"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
