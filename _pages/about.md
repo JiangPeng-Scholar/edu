@@ -1,7 +1,7 @@
 ---
 # layout: archive # too wide
 permalink: /
-title: "Welcome to Yue Wu’s homepage!"
+title: "Welcome to Jiang Peng’s homepage!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,11 +13,13 @@ redirect_from:
 
 # About
 
-**Yue Wu** is a Ph.D. student in the Division of Applied Mathematics at Brown University. His main research interests lie in numerical methods for partial differential equations. 
+**Peng Jiang**, an intermediate translator, graduated from [School of Foreign Languages](https://wgyxy.zuel.edu.cn/main.htm) from [Zhongnan University of Economics and Law](https://english.zuel.edu.cn/) with a Bachelor's degree in Financial Management and a Master's degree in Legal and Business Translation. His research areas include corporate financial management, legal and business translation, and colonial and postcolonial literary studies. With extensive experience in both interpreting and translation, Mr. Jiang has provided services for various organizations, including Dongfeng Motor Corporation and the Huangshi Intermediate People's Court. In 2021, he contributed to the translation and publication of Bloodlines, a book by Professor Elleke Boehmer from Oxford University.
 
-Outside of his academic life, he is an aviation enthusiast and enjoys road cycling and hiking. He grew up in [Wuxi](http://en.wuxi.gov.cn/ "Wuxi"){:target="_blank"}, a beautiful city in east China. 
+You can find my CV here: [JiangPeng's Curriculum Vitae](../files/cv.pdf).
 
-Please find his CV [here](../files/cv.pdf "Yue Wu's CV"){:target="_blank"}. 
+[Email](mailto:mr.jiangpeng@qq.com) / [Github](https://jiangpeng-cv.github.io/edu/) / [Wechat](../images/wechat.jpg)/
+
+Please find his CV [here](../files/cv.pdf "Jiang Peng's CV"){:target="_blank"}. 
 
 
 # Education
