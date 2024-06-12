@@ -18,7 +18,7 @@
             right: 0;
             width: 25%;
             height: 100%;
-            background: url('../profile.jpg') no-repeat center center;
+            background: url(../profile.png) no-repeat center center;
             background-size: cover;
             z-index: -1;
         }
