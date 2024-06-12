@@ -19,7 +19,7 @@ redirect_from:
 You can download Jiang's CV here:[JiangPeng Curriculum Vitae](../cv.pdf "江鹏简历"){:target="_blank"}.
 
 <!-- 主页上只展示客观成果，主观的东西和需要展开讲的东西放到其他页面 -->
-[Email](mailto:mr.jiangpeng@qq.com) / [Github](https://github.com/JiangPeng-Scholar) / [Wechat](../wechat.png "江鹏微信"){:target="_blank"}.
+[Email](mailto:mr.jiangpeng@qq.com)# / [Github](https://github.com/JiangPeng-Scholar)# / [Wechat](../wechat.png "江鹏微信"){:target="_blank"}.
 
 
 # Education
