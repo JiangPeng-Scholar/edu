@@ -15,7 +15,7 @@ author_profile: true
 
 英文简历：点击[此处下载](../cv.pdf "江鹏的简历"){:target="_blank"}.
 
-联系方式：[Mr.JiangPeng@qq.com](mailto:Mr.JiangPeng@qq.com "向该邮箱发送邮件") /  [微信](../wechat.png "江鹏的微信")
+联系方式：[Mr.JiangPeng@qq.com](mailto:Mr.JiangPeng@qq.com "向该邮箱发送邮件") /  [微信](../wechat.png "江鹏微信")
 
 
 # 教育背景
