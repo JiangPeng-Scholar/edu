@@ -21,8 +21,6 @@ You can download Jiang's CV here:[JiangPeng Curriculum Vitae](../cv.pdf "jiangcv
 [Email](mailto:mr.jiangpeng@qq.com) / [Github](https://github.com/JiangPeng-Scholar) / [Wechat](../wechat.png "Jinagwechat"){:target="_blank"}.
 
 
-
-
 # Education
 
 - 09/2023 ~ Present: [Division of Applied Mathematics](https://appliedmath.brown.edu/ "APMA, Brown"){:target="_blank"}, [Brown University](https://www.brown.edu/ "Brown"){:target="_blank"} 
